@@ -1,1806 +1,1587 @@
-{"name":"   🇪🇦 TIRI_STAR TV 🇪🇦   "  , 
-"author":"(TIRI)  ¡¡ CUIDARSE ES TAN SIMPLE-COMO CUIDAR A LOS DEMAS ¡¡ ",
-"url":"https://www.dropbox.com/s/6ctqs2sgaowdffv/TIRI_STARV2.w3u?dl=1",
-"image": "https://www.dropbox.com/s/mjht6umvpg10lhc/tiriTv2.gif?dl=1",
-"imageScale": "",
-"contact":"https://t.me/listaswiseplay&ved=2ahUKEwiq5rDzsYPqAhVS8uAKHVioCvEQFjAAegQIARAB&usg=AOvVaw1E4Z8oCjxV85IWS2QgaKrA",
-"info":"https://listaswiseplay.com/",
-"groups": [
-
-  
-
-{"name": "Tv ESPAÑA",
-"image": "https://www.dropbox.com/s/0vim1mnbryrw5b6/Tv%20%281%29.gif?dl=1",
-"stations":[
-
-{"name": "La 1",
-"image": "https://www.dropbox.com/s/zlouk95du91ibom/la1.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/tve1/",
-"embed": "true"
- },
-{"name": "La 2",
-"image": "https://www.dropbox.com/s/42p9c214fdg4yw6/la2.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/tve2/",
-"embed": "true"
- },
-{"name": "Antena 3",
-"image": "https://www.dropbox.com/s/r2ghms73tfp7d8v/antena3.png?dl=1",
-"url": "https://revolucionariostv.eu/MultiTV/antena3.php",
-"embed": "true"
- },
-{"name": "Cuatro",
-"image": "https://www.dropbox.com/s/gkkopemynwqvv7x/cuatro.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/lacuatro/",
-"embed": "true"
- },
-{"name": "Telecinco",
-"image": "https://www.dropbox.com/s/2fflwtp90x1ei1l/telecinco.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/telecinco/",
-"embed": "true"
- },
-{"name": "La Sexta",
-"image": "https://www.dropbox.com/s/d7gqnx5yicoo9ib/lasexta.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/lasexta/",
-"embed": "true"
- },
-{"name": "Neox",
-"image": "https://www.dropbox.com/s/vl8skpumxbz645q/1_0_1_75FE_408_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/neox/",
-"embed": "true"
- },
-{"name": "Nova",
-"image": "https://www.dropbox.com/s/tqk8w8ab0hsivxv/nova.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/nova/",
-"embed": "true"
- },
-{"name": "Canal Sur And",
-"image": "https://www.dropbox.com/s/fv49k66ou0neicy/canalsura.png?dl=1",
-"url": "http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/chunklist_b2200000_DVR.m3u8"},
-
-{"name": "Divinity",
-"image": "https://www.dropbox.com/s/v0uvx2onavxf4w9/divinity.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/divinity/",
-"embed": "true"
- },
-{"name": "Be Mad",
-"image": "https://www.dropbox.com/s/4tmggq1eafbtnhc/bemad.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/bemad/",
-"embed": "true"
- },
-{"name": "Energy",
-"image": "https://www.dropbox.com/s/pp62tcv7w8fqi8v/energy.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/energy/",
-"embed": "true"
- },
-{"name": "Paramount Network",
-"image": "https://www.dropbox.com/s/1pxyn6bzjog40d5/paramount.png?dl=1",
-"url": "http://paramount.live.flumotion.com/live/playlist.m3u8?OPT:adaptive=1"},
-
-{"name": "Dmax",
-"image":"https://www.dropbox.com/s/wud0ojmo3ac8r6p/dmax.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/discovery-max/",
-"embed": "true"
-},
- {"name": "Mega",
-"image":"https://www.dropbox.com/s/g2qdyndausfa4gd/mega.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/mega/",
-"embed": "true"
-},
-{"name": "Mtmad",
-"image": "http://graph.facebook.com/mtmad.es/picture?width=320&height=320",
-"url": "https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8"},
-{"name": "TV3",
-"image": "http://graph.facebook.com/tv3/picture?width=320&height=320",
-"url": "https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8"},
-{"name": "33",
-"image": "http://graph.facebook.com/Canal33/picture?width=320&height=320",
-"url": "https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8"},
-{"name": "Fashion TV",
-"image": "https://www.dropbox.com/s/g3uh9k4l03xmn87/1200px-Fashion_TV_logo.svg.png?dl=1",
-"url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8"},
-{"name": "Fasion Dior",
-"image":"https://www.dropbox.com/s/g3uh9k4l03xmn87/1200px-Fashion_TV_logo.svg.png?dl=1",
-"url": "https://fash1043.cloudycdn.services/vod/_definst_/43/00/11/102218/1o2_dm_x3oqree.smil/playlist.m3u8"
-},
-{"name": "Canal Blau",
-"image": "https://graph.facebook.com/CanalBlau/picture?width=320&height=320",
-"url": "https://liveingesta119.cdnmedia.tv/blautvlive/smil:blautv.smil/playlist.m3u8",
-"userAgent": "TDTChannels#CrKeyTDT#"},
-{"name": "3-24",
-"image": "https://graph.facebook.com/324cat/picture?width=320&height=320",
-"url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8"},
-{"name": "TVG",
-"image": "https://graph.facebook.com/CRTVG/picture?width=320&height=320",
-"url": "http://europa-crtvg.flumotion.com/playlist.m3u8"},
-{"name": "Telemadrid",
-"image": "https://graph.facebook.com/telemadrid/picture?width=200&height=200",
-"url": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8"
-},
-{"name": "LaOtra",
-"image": "https://graph.facebook.com/telemadrid/picture?width=200&height=200",
-"url": "http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8"
-},
-{"name": "Canarias",
-"image": "https://assets.streamtest.in/logo/96/25_canaria-sat.jpg?v=1541384656",
-"url": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8"},
-
-{"name": "#0",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7478_3F0_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/espana/canal-0-plus/",
-"embed": "true"
- }, 
-{"name": "M Estrenos",
-"image":"https://www.dropbox.com/s/5fhmprucuat2xvh/1_0_19_74D5_3F8_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/movistar-estrenos/",
-"embed": "true"
- }, 
-{"name": "M Accion",
-"image":"https://www.dropbox.com/s/9iy7g0aadq5kkbj/1_0_1_746C_3F0_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/movistar-accion/",
-"embed": "true"
- },
-{"name": "M Drama",
-"image":"https://www.dropbox.com/s/2keljgmvaqa5l4y/1_0_1_746E_3F0_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/movistar-drama/",
-"embed": "true"
- },
-{"name": "M Comedia",
-"image":"https://www.dropbox.com/s/w9fvico1u90tpoi/1_0_1_746D_3F0_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/movistar-comedia/",
-"embed": "true"
- },  
-{"name": "M Cine español",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7736_416_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/espana/dcine-n/",
-"embed": "true"
- }, 
-{"name": "M Series",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7882_414_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/espana/movistar-series/",
-"embed": "true"
- }, 
- {"name": "M Seriesmania",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_78B6_3EC_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/espana/movistar-series-mania/",
-"embed": "true"
- }, 
-{"name": "Xtrm",
-"image":"https://www.dropbox.com/s/xpbf895l9yp66vq/xtrm_form.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/xtrm/",
-"embed": "true"
- }, 
-{"name": "Dark",
-"image":"https://www.dropbox.com/s/j6ebtxrgiii02ep/dark.jpg?dl=1",
-"url": "https://adictosalatele.com/TV/espana/dark/",
-"embed": "true"
- }, 
-{"name": "Dark",
-"image":"https://www.dropbox.com/s/j6ebtxrgiii02ep/dark.jpg?dl=1",
-"url": "https://adictosalatele.com/TV/espana/dark/",
-"embed": "true"
-},
-{"name": "Somos",
-"image": "https://www.dropbox.com/s/165ll861sqkui5t/SOMOS.jpg?dl=1",
-"url":"http://node03.openfutbol.es/SVoriginOperatorEdge/smil:75.smil/playlist.m3u8"
-},
-{"name": "Hollywood",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77C1_40A_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/espana/hollywood/",
-"embed": "true"
- },
-{"name": "Calle 13",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7790_424_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/espana/calle13/",
-"embed": "true"
- },
-{"name": "Syfy",
-"image":"https://www.dropbox.com/s/m5p78kefahm8v3a/1_0_1_7796_424_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana//syfy/",
-"embed": "true"
- },
-{"name": "Syfy opcion 2",
-"image":"https://www.dropbox.com/s/m5p78kefahm8v3a/1_0_1_7796_424_1_C00000_0_0_0.png?dl=1",
-"url": "http://canalesonlineweb.emiweb.es/paginas/tv-castellano/syfy.html",
-"isHost": "true" 
-},
-{"name": "Fox",
-"image":"https://www.dropbox.com/s/gge85zalq9n4llu/1_0_1_746F_3F0_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/fox",
-"embed": "true"
-},
-{"name": "Fox Life",
-"image":"https://www.dropbox.com/s/8tlheib4et0z2tb/1_0_1_7468_3F0_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/fox-life/",
-"embed": "true"
- },
-{"name": "Tnt",
-"image":"https://www.dropbox.com/s/k08aqsts0v7a0cb/1_0_19_7888_414_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/tnt/",
-"embed": "true"
- },
-{"name": "Tcm",
-"image":"https://www.dropbox.com/s/hb37za6c6bzwwvo/1_0_19_7885_414_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/tcm/",
-"embed": "true"
- },
-{"name": "Axn",
-"image":"https://www.dropbox.com/s/gwqx9zkwnj7ltqi/1_0_1_7477_3F0_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/axn/",
-"embed": "true"
- },
-{"name": "Axn opcion 2",
-"image":"https://www.dropbox.com/s/gwqx9zkwnj7ltqi/1_0_1_7477_3F0_1_C00000_0_0_0.png?dl=1",
-"url": "http://canalesonlineweb.emiweb.es/paginas/tv-castellano/axn-1.html",
-"isHost": "true"
- }, 
-{"name": "Axn white",
-"image":"https://www.dropbox.com/s/eqa0acwukqd04ki/1_0_19_74DB_3F8_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/axnwhite/",
-"embed": "true"
- },
-{"name": "Discovery",
-"image":"https://www.dropbox.com/s/w0mf5pbk4lsgcyd/1_0_1_772F_416_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/discovery-channel/",
-"embed": "true"
- }, 
-{"name": "Discovery OP2",
-"image":"https://www.dropbox.com/s/w0mf5pbk4lsgcyd/1_0_1_772F_416_1_C00000_0_0_0.png?dl=1",
-"url": "http://canalesonlineweb.emiweb.es/paginas/tv-castellano/discovery-channel.html",
-"embed": "true"
- }, 
-{"name": "Historia",
-"image":"https://www.dropbox.com/s/ffur65a50hx97sn/1_0_1_7731_416_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/history/",
-"embed": "true"
- },
-{"name": "Historia OP2",
-"image":"https://www.dropbox.com/s/ffur65a50hx97sn/1_0_1_7731_416_1_C00000_0_0_0.png?dl=1",
-"url": "http://cablegratis.online/history-en-vivo/",
-"embed": "true"
- },
-{"name": "Nat Geografic",
-"image":"https://www.dropbox.com/s/1v0za3igk4n11n9/1_0_1_778D_424_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/national-geographic/",
-"embed": "true"
- },
-{"name": "Nat Geo Will",
-"image":"https://www.dropbox.com/s/6u6ncxoss54xw1v/1_0_1_77D8_40A_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/nat-geo-will/",
-"embed": "true"
- },
-{"name": "Blaze",
-"image":"https://www.dropbox.com/s/r6jghfxl9djeqpq/1_0_1_772D_416_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/canal-blaze/",
-"embed": "true"
- },
-{"name": "odisea",
-"image":"https://www.dropbox.com/s/6xyk6z5rmi5rmbk/1_0_1_778A_424_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/odisea/",
-"embed": "true"
- },
-{"name": "Crimen-investigacion",
-"image":"https://www.dropbox.com/s/be6fqmld8lre6vl/1_0_1_7732_416_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/ci-crimen-y-investigacion/",
-"embed": "true"
- },
-{"name": "Comedia Central",
-"image":"https://www.dropbox.com/s/0lhc10rmia8u6qo/1_0_1_76C8_40E_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/comedy-central/",
-"embed": "true"
- },
-{"name": "Cocina",
-"image":"https://www.dropbox.com/s/s1q7pfuviqsvns3/1_0_1_76CE_40E_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/canal-cocina/",
-"embed": "true"
- },
-
-
- ]},
-
-{"name": "Tv ESPAÑA VL",
-"image": "https://www.dropbox.com/s/3vo5oppn4p6wh9g/tv%282%29.gif?dl=1",
-"stations":[
-
-{ "name": "Tv OPVL", "image": "https://www.dropbox.com/s/x3dcr128x8emwd9/tv.png?dl=1",
-"url": "https://pastebin.com/raw/HpBX8Z7h#.m3u", 
-"userAgent": "Lavf/57.83.100", "isHost": true },
-
-
-]},
-
-{"name": "Tv INFANTIL",
-"image": "https://www.dropbox.com/s/4po8xgc33v7utp2/mickeybechito.gif?dl=1",
-"stations":[
-
-{"name": "dedicado con todo mi cariño a blanca una niña luchadora y valiente", 
-"image": "https://www.dropbox.com/s/sbltaihidth1y7c/viaje-hacia-el-carino.png?dl=1",  
-"url": "https://youtu.be/E-pK", 
-"isHost": "true" }, 
-{"name": "Nickelodeon", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_772E_416_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/infantiles/nick/",
-"embed": "true"
-},
-{"name": "Cartoon network", 
-"image":"https://www.dropbox.com/s/kpw6x89o6k0r9eg/carton.jpg?dl=1",
-"url": "https://adictosalatele.com/TV/infantiles/cartoonnetwork/",
-"embed": "true"
-},
-{"name": "DISNEY JR", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_746B_3F0_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/infantiles/disneyjunior/",
-"embed": "true"
-},
-{"name": "Clan tv", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77BE_40A_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/infantiles/clantv/",
-"embed": "true"
-},
-{"name": "Boing", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_749E_41C_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/infantiles/boing/",
-"embed": "true"
-},
-{"name": "BABY fish", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_749C_41C_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/infantiles/babyfirst/",
-"embed": "true"
-},
-{"name": "Disney Channel", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_788B_414_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/infantiles/disneychannel/",
-"embed": "true"
-},
-{"name": "Locomocion tv", 
-"image":"https://www.dropbox.com/s/hbcl3jdmuxrh7xl/locomotion-television-channel-cable-television-pay-television-aquatic-locomotion.jpg?dl=1",
-"url": "http://locomotiontv.com/envivo/loco_ch/stream.m3u8",
-"userAgent": "http-reconnect=true"
-}, 
-{"name": "Toomcast lat", 
-"image":"https://www.dropbox.com/s/dhywdwotk55dno3/Tooncast.jpg?dl=1",
-"url": "https://adictosalatele.com/TV/infantiles/tooncast/",
-"embed": "true"
-},
-{"name": "Super3",
-"image": "https://graph.facebook.com/clubsuper3/picture?width=320&height=320",
-"url": "https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8"
-},
-{"name": "Cachipuntv", 
-"image":"https://www.dropbox.com/s/epw4qicfugqpm0h/IMG_20200623_010622.jpg?dl=1",
-"url": "http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8"
-},
-
-{"name": "Danimados online",
-"image":"https://www.dropbox.com/s/ezq9p66od8il8xp/series%20dibu.png?dl=1",
- "url": "https://danimados.com/genero/series-clasicas/",
-"embed": "true"
- }, 
-  {"name": "seodiv online",
-"image":"https://www.dropbox.com/s/ezq9p66od8il8xp/series%20dibu.png?dl=1",
- "url": "https://seodiv.com/",
-"embed": "true"
- },
+{
+	"name": "chukydeport-mix",
+	"author": "chuky",
+	"image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
+	"info": "Enlaces de internet",
+	"telegram": "listaswiseplay.com",
+	"url": "https://pastebin.com/X17UNiuN",
+	"groups": [{
+		"name": "Lista para todo el mundo",
+		"image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
+		"info": "",
+		"stations": [{}]
+	}, {
+		"name": "Liga NBA",
+		"image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
+		"info": "",
+		"stations": [{
+			"name": "Nuggets - Lakers",
+			"image": "https://i.ibb.co/xhbmC8z/Sin-t-tulo1.gif",
+			"url": "https://dailysport.pw/c21.php",
+			"isHost": "true"
+		}, {
+			"name": "ESPN-Argentina",
+			"image": "https://i.ibb.co/pfvTKxK/espn.gif",
+			"url": "https://live-tennis.stream/stream/54013.html",
+			"referer": "http://totalsport.me/player/11",
+			"isHost": "true"
+		}, {
+			"name": "Movistar Deporte",
+			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
+			"url": "http://185.140.187.41:8000/play/a03m/index.m3u8",
+			"userAgent": ""
+		}, {
+			"name": "Atlanta Hawks",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/atl/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/220/thumbs/22091682016.gif"
+		}, {
+			"name": "Boston Celtics",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/bos/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/213/thumbs/slhg02hbef3j1ov4lsnwyol5o.gif"
+		}, {
+			"name": "Brooklyn Nets",
+			"url": "http://peter.crackstreams.ga:80/show/bkn/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/3786/thumbs/hsuff5m3dgiv20kovde422r1f.gif",
+			"userAgent": ""
+		}, {
+			"name": "Charlotte Hornets",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/cha/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/5120/thumbs/512019262015.gif"
+		}, {
+			"name": "Chicago Bulls",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/chi/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/221/thumbs/hj3gmh82w9hffmeh3fjm5h874.gif"
+		}, {
+			"name": "Cleveland Cavaliers",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/cle/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/222/thumbs/22269212018.gif"
+		}, {
+			"name": "Dallas Mavericks",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/dal/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/228/thumbs/22834632018.gif"
+		}, {
+			"name": "Denver Nuggets",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/den/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/229/thumbs/22989262019.gif"
+		}, {
+			"name": "Detroit Pistons",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/det/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/223/thumbs/22321642018.gif"
+		}, {
+			"name": "Golden State Warriors",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/gsw/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/235/thumbs/qhhir6fj8zp30f33s7sfb4yw0.gif"
+		}, {
+			"name": "Houston Rockets",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/hou/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/230/thumbs/8xe4813lzybfhfl14axgzzqeq.gif"
+		}, {
+			"name": "Indiana Pacers",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/ind/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/224/thumbs/22448122018.gif"
+		}, {
+			"name": "Los Angeles Clippers",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/lac/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/236/thumbs/23654622016.gif"
+		}, {
+			"name": "Los Angeles Lakers",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/lal/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/237/thumbs/uig7aiht8jnpl1szbi57zzlsh.gif"
+		}, {
+			"name": "Memphis Grizzlies",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/mem/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/231/thumbs/23143732019.gif"
+		}, {
+			"name": "Miami Heat",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/mia/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/214/thumbs/burm5gh2wvjti3xhei5h16k8e.gif"
+		}, {
+			"name": "Milwaukee Bucks",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/mil/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/225/thumbs/22582752016.gif"
+		}, {
+			"name": "Minnesota Timberwolves",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/min/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/232/thumbs/23296692018.gif"
+		}, {
+			"name": "New Orleans Pelicans",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/nop/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/4962/thumbs/496226812014.gif"
+		}, {
+			"name": "New York Knicks",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/nyk/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/216/thumbs/2nn48xofg0hms8k326cqdmuis.gif"
+		}, {
+			"name": "Oklahoma City Thunder",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/okc/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/2687/thumbs/khmovcnezy06c3nm05ccn0oj2.gif"
+		}, {
+			"name": "Orlando Magic",
+			"url": "http://peter.crackstreams.ga:80/show/orl/chunks.m3u8",
+			"userAgent": "",
+			"image": "http://content.sportslogos.net/logos/6/217/thumbs/wd9ic7qafgfb0yxs7tem7n5g4.gif"
+		}, {
+			"name": "Philadelphia 76ers",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/phi/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/218/thumbs/21870342016.gif"
+		}, {
+			"name": "Phoenix Suns",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/phx/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/238/thumbs/23843702014.gif"
+		}, {
+			"name": "Portland Trail Blazers",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/por/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/239/thumbs/23997252018.gif"
+		}, {
+			"name": "Sacramento Kings",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/sac/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/240/thumbs/24040432017.gif"
+		}, {
+			"name": "San Antonio Spurs",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/sas/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/233/thumbs/23325472018.gif"
+		}, {
+			"name": "Toronto Raptors",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/tor/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/227/thumbs/22745782016.gif"
+		}, {
+			"name": "Utah Jazz",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/uta/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/234/thumbs/23467492017.gif"
+		}, {
+			"name": "Washington Wizards",
+			"userAgent": "",
+			"url": "http://peter.crackstreams.ga:80/show/was/chunks.m3u8",
+			"image": "http://content.sportslogos.net/logos/6/219/thumbs/21956712016.gif"
+		}]
+	}, {
+		"name": "MMA & Boxeo",
+		"image": "https://i.ibb.co/GVWQTzN/Sin-t-tulo.gif",
+		"info": "",
+		"stations": [{
+			"name": " covington-vs-woodley",
+			"image": "https://www.dhresource.com/0x0/f2/albu/g3/M01/D1/F7/rBVaHVnziTuAfG7cAAFPjQnJllU012.jpg",
+			"url": "http://crackstreams.com/mmastreams/watch-ufc-covington-vs-woodley/",
+			"isHost": "true"
+		}, {
+			"name": "covington-vs-woodley (Latino)",
+			"image": "https://www.dhresource.com/0x0/f2/albu/g3/M01/D1/F7/rBVaHVnziTuAfG7cAAFPjQnJllU012.jpg",
+			"url": "https://live-tennis.stream/stream/54014.html",
+			"referer": "https://totalsport.me/player/12",
+			"isHost": "true"
+		}, {
+			"name": "covington-vs-woodley",
+			"image": "https://www.dhresource.com/0x0/f2/albu/g3/M01/D1/F7/rBVaHVnziTuAfG7cAAFPjQnJllU012.jpg",
+			"url": "http://liveonscore.tv/mma-boxing/ufc-vegas-11-covington-vs-woodley/",
+			"isHost": "true"
  
-{"name": "Erase una Vez Cuerpo H", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=zAvKlfXE4S8&list=PLlE4Xc7KvdwwqfwJjQxClEwOFuL6fSJ37",
-"embed": "true"
-},
-
-{"name": "Erase una Vez el Espacio", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=e9UKSquKuQc&list=PLKXN6nw9Z7HuhYBgbkhFswHJq0Vb6W-39",
-"embed": "true"
-},
-
-{"name": "Heidi", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=e9UKSquKuQc&list=PLvmFTGTOxh9NIpaXUUL97aNCmK3nGcFvc",
-"embed": "true"
-},
-
-{"name": "Marco", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=e9UKSquKuQc&list=PLvmFTGTOxh9PE6AOlhgDSOxi3vmQMXc9y",
-"embed": "true"
-},
-
-{"name": "Vickie el Vikingo", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=e9UKSquKuQc&list=PLvmFTGTOxh9OPE2JNXazMFT2BdCxLtucu",
-"embed": "true"
-},
-
-{"name": "Jorge el curioso", 
-"image":"https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",
-"url": "https://www.youtube.com/embed/VM5nQNEigSk",
-"embed": "true"
-},
-{"name": "El Pajaro Loco", 
-"image":"https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",
-"url": "https://www.youtube.com/embed/18S5T8cGQ1k",
-"embed": "true"
-},
-{"name": "Popeye", 
-"image":"https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",
-"url": "https://www.youtube.com/embed/9sVwvH2WqdU",
-"embed": "true"
-},
- 
-{"name": "Tom y Jerry", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=WWB-nU5FtyQ&list=PLCF4P0UGv7KRmrE-KvO_RLB4gkqpkPbEE",
-"embed": "true"
-},
-
-{"name": "LooneyToons", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=0NMSJ2osf80&list=PLCF4P0UGv7KSEuRBVSboEXSl2syLUIfDS", 
-"embed": "true"
-},
-
-{"name": "La pantera rosa", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.dailymotion.com/embed/video/x1j3vkf", 
-"embed": "true"
-},
-
-{"name": "La Casa De Mickey Mouse", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed/QBBmC1-UImE", 
-"embed": "true"
-},
-
-{"name": "la abeja maya", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=E-pKGTkcUkQ&list=PLYpTR-80tSP2dA3FsuEklQm_u4mtLoQdA", 
-"embed": "true"
-},
-
-{"name": "Snoopy Y Sus Amigos", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=OIBJWKNNT-4&list=PLZjPsvkRnjvFPQ_gD_pKZQzFk2NXav9v7&index=1", 
-"embed": "true"
-},
-
-{"name": "Masha y el Oso", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed/Et6r6w47y_8", 
-"embed": "true"
-},
-
-{"name": "Masha y el Oso 11h ", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed/7j9Ki8MBTqo", 
-"embed": "true"
-},
-
-{"name": "Mr Bean animado", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=Sc2Ux92cOSw&list=PLAjqQKyI0Lf_SgxVUyfciR7IiKYF1KUAV&index=1", 
-"embed": "true"
-},
-
-{"name": "Scooby-Doo!", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.youtube.com/embed?v=iLBbdXduDB0&list=PLCF4P0UGv7KRabXI--gkdE5hkzLSU02tq", 
-"embed": "true"
-},
-
-{ "name": "antz", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1_ELo_zi1gTytcurpWfuLwzxvcaG4D6jm/", 
-"embed": "true"
-},
-
-{ "name": "El Aprendiz de Brujo", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://hlshd.xyz/v/rj46muew3zgnm2l", 
-"embed": "true"
-},
-
-{ "name": "La Maldicion de las brujas", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://uqload.com/embed-itam0w0tzpes.html", 
-"embed": "true"
-},
-
-
-{ "name": "El retorno de las brujas", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://uqload.com/embed-ncsyn77j6ndr.html", 
-"embed": "true"
-},
-
-{ "name": "Dragones y Mazmorras", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://ok.ru/video/254086089350", 
-"embed": "true"
-},
-
-{ "name": "The flash lat", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1j_qj3yLYdSa81CVUiB4OI6HkLs4DPZeN/", 
-"embed": "true"
-},
-
-{ "name": "Aladin 2019", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1YaC4WhnpVr21yzMJRJRv8tcAHh4F1lGN/", 
-"embed": "true"
-},
-
-{ "name": "los futbolisimos", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1lUG_UWnaLnm5TEV92lEw3LHzI8fKwbYw/", 
-"embed": "true"
-},
-
-{ "name": "Shin Chan - En Busca de las Bolas Perdidas", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1GAMATaySkzvwOUeOvt5LGXYlCBCDL0_U/", 
-"embed": "true"
-},
-
-{ "name": "Jumanji Bienvenidos a la Jungla", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1mTyc6T834UxWIk6Cgb90PfeZ0438fbXt/", 
-"embed": "true"
-},
-
-{ "name": "La familia monster", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1LaZQpvVWdi2J_1eUV8K3D9yAxFuoH6K9/", 
-"embed": "true"
-},
-
-{ "name": "Bichos", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1cwN88yBJ4YrZoExP0fg6A7K77aYn9tr8/", 
-"embed": "true"
-},
-
- { "name": "Buscando a nemo", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1cD4b4O0Cq7FDgV4_jmSqc9VGcMHQzEUV/", 
-"embed": "true"
-},
-
-{ "name": "Buscando a Dori", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1JUZqrbdG1jYV6G3J3_LoZwq2R3-EpR_B/", 
-"embed": "true"
-},
-
-{ "name": "Del Revés", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1xhHVzy5hzBTnJ14g8q21rbcjdOQY-uKL/", 
-"embed": "true"
-},
-
- { "name": "Toy story 4", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1ys5USzprbzze2qTN4IkQL0RJ4S1JDco7/", 
-"embed": "true"
-},
-
-{ "name": "Coco", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1wZ6PCH6nAjLyZIR0oDaumL1_lgVneoBe/", 
-"embed": "true"
-},
-
- { "name": "Ready Player One", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1jAlWL_aLGo0MZE0csBCxl_32MZLaleZ6/", 
-"embed": "true"
-},
-
-{ "name": "Home", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1XAMrzBjtdvfl7vGiz_m3_xVAeVjYA-Et/", 
-"embed": "true"
-},
-
-{ "name": "Trols", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1vCHxZpaZ4BuE5hi_DUMUGBrGhQ9L48cr/", 
-"embed": "true"
-},
-
-{"name": "el origen de los guardianes", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1NAiqOXaCxIg9tj147-u-dYLxVHno0LLH/",
-"embed": "true"
-},
-
-{"name": "la gallina turuleta", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1PQTdhFNI4KheFpkzO-U1V4NRRHUG8bRF/", 
-"embed": "true"
-},
- 
-{"name": "ET", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1YmlNJda_V_2ZVrv5p4__6hJKzhlTjzmR/", 
-"embed": "true"
-}, 
-
-{"name": "Stargirl lat", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1kxjvN5YuQQFuNl3UZgNq7ofntp7auE8S/", 
-"embed": "true"
-},
-
-{"name": "Volando juntos", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1nol47ycqRV_dGyeQ8P4_oJIyw2ztF_6V/", 
-"embed": "true"
-},
-
-{"name": "Operacion panda", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/12nGxyXOrL7QmlxO54D79hTA5M0KOrryA/", 
-"embed": "true"
-},
-
-{"name": "Bob esponja un heroe f del agua", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1d4n49iTu_GlNEmUxwhW5DpTwNhJxV9fG/", 
-"embed": "true"
-},
-
-{"name": "Angry Birds", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/16UNZGKkItx7bqMSqz1yLg2xnZ5CEPZaZ/", 
-"embed": "true"
-},
-
-{"name": "Angry Birds 2", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1pmHdnCV3IA3I1LjdSoLXiI4ehZ6SuO29/", 
-"embed": "true"
-},
-
-{"name": "cortocircuito", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1Cr9nWD0ysBB0aFKy6uMmENVhjBXtiJgL/", 
-"embed": "true"
-},
-
-{"name": "la obeja shaun", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1Hzcl9SQcsXmuc2O7eEbSHKDHkFyUp_zC/", 
-"embed": "true"
-},
-
-{"name": "sola en casa", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1nhwzLtsdzsn6njMpql5peO7Lsjw9b_RR/", 
-"embed": "true"
-},
-
-{"name": "la historia interminable", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1qwrXDJVTKRJJZZdVA7vU68F0pi4oG4Rd/", 
-"embed": "true"
-},
-
-{"name": "hotel transilvania 3", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/11VRXFXtdAkW8W06zDrbEEs3lb79b2OTR/", 
-"embed": "true"
-},
-
-{"name": "la princesa prometida", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1Wd2H4J6j_gEkZCBvy5HcosQnioC7YF6g/", 
-"embed": "true"
-},
-
-{"name": "Sonic", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://gounlimited.to/embed-obva3cosv217.html", 
-"isHost": "true"
-},
-
-{"name": "espias con disfraz", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://feurl.com/v/5d8nrfdwww47zpe", 
-"embed": "true"
-},
-
-{"name": "Atlantis-2-El-regreso-de-Milo", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://feurl.com/v/3qo1eyj-29y", 
-"embed": "true"
-},
-
-{"name": "Frozen 2", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://gounlimited.to/embed-105hyti5dawj.html",
-"isHost": "true"
-},
-
-{"name": "Malefica reina del mal", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://gounlimited.to/embed-up8no0c32bcn.html",
-"isHost": "true"
-},
-
-{"name": "-scooby-", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://gounlimited.to/embed-dxebpih38o1o.html",
-"isHost": "true"
-},
-
-{"name": "Mi Mascota Es Un Leon", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://streampelis.club/v/mrkpja57ee0xnpz.html",
-"embed": "true"
-},
-
-{"name": "Un Amigo Abominable", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://streampelis.club/v/l0krjanzy5532gz.html",
-"embed": "true"
-}, 
-
-{ "name": "Dora-y-la-ciudad-perdida-2019", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://streampelis.club/v/2eml6b2qw31jmkx.html", 
-"embed": "true"
-}, 
-
-{ "name": "La dama y el vagabundo 2019", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/14jQ7ViOTzYp6XH_osJ4m0Z0DhdjOgD46/", 
-"embed": "true"
-}, 
-
-{ "name": "Kim posible 2019", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1zSjqpzbuP6SYdig8DVI98d3qeOYR8AocIQ/", 
-"embed": "true"
-}, 
-
-{ "name": "Capitana Marvel 2019", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://drive.google.com/file/d/1ZN3AZmFVa-cXtsYCAPtiLdpfO2GBsWqtVA/", 
-"embed": "true"
-}, 
- 
-{"name": "La  princesa de las nieves", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.dailymotion.com/embed/video/x3fmdz8", 
-"embed": "true"
-},
-
-{"name": "Caperucita Roja", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.dailymotion.com/embed/video/x38dy5s", 
-"embed": "true"
-},
-
-{"name": "La Cenicienta Peli Animacion", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.dailymotion.com/embed/video/x3eldxc", 
-"embed": "true"
-},
-
-{"name": "Mi amigo Bernard", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.dailymotion.com/embed/video/x41ec34", 
-"embed": "true"
-},
-{"name": "Peli Barbie", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.dailymotion.com/embed/video/x3izz0b", 
-"embed": "true"
-},
-
-{"name": "Serie Barbie", 
-"image": "https://www.dropbox.com/s/9jif9jhcidlnavq/91T58PI.png?dl=1",  
-"url": "https://www.dailymotion.com/embed/video/x3lkeab", 
-"embed": "true"
-},
-
-
- ]},
-
-
-{"name": "Tv DEPORTES",
-"image": "https://www.dropbox.com/s/96rqichndzxs973/balls%20sport%201.gif?dl=1",
-"stations":[
-
-{"name": "Vamos",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_760C_408_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/deportes/vamos/",
-"embed": "true"
-},
- {"name": "La Liga",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
-"url": "https://adictosaldeporte.com/TV/deportes/laliga/",
-"embed": "true"
-},
- 
-{"name": "La Liga opcion2", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/deportes/movistar-laliga/live1.php",
-"embed": "true"
-},
-
-{"name": "La Liga opcion3", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
-"url": "https://daddylive.live/channels/stream-13.php",
-"isHost": "true" 
-},
-
-{"name": "La Liga opcion4", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/deportes/movistar-laliga/live3.php",
-"embed": "true"
-},
-
-{"name": "Liga tv Bar", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/deportes/movistar-laliga/bar.php",
-"embed": "true"
-},
-{"name": "Liga tv Bar 1", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/deportes/movistar-laliga/live2.php",
-"embed": "true"
-},
-
-{"name": "Liga tv Bar op2", 
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
-"url": "https://wowtv.info/tv5.html",
-"embed": "true"
-},
-{"name": "Liga de Campeones",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_757B_412_1_C00000_0_0_0.png",
-"url": "https://adictosaldeporte.com/ver-laliga-campeones-online-y-en-directo-gratis/",
-"embed": "true"
-},
-
-{"name": "EuroSport 1",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_74A1_41C_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/deportes/eurosport1/",
-"embed": "true"
-},
-{"name": "EuroSport 2",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_760E_408_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/deportes/eurosport2/",
-"embed": "true"
-},
-{"name": "M Deportes",
-"image":"https://www.dropbox.com/s/l56vdyi038bjx8y/1_0_1_778F_424_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/deportes/movistar-deportes/",
-"embed": "true"
-},
- {"name": "Golf",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7789_424_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/deportes/movistar-golf/",
-"embed": "true"
-},
-{"name": "Barcatv",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_74A0_41C_1_C00000_0_0_0.png",
-"url": "https://adictosaldeporte.com//TV/deportes/barcatv/",
-"embed": "true"
-},
-{"name": "Goltv",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_74A3_41C_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/deportes/goltv/",
-"embed": "true"
-},
-{"name": "Nbastreams Canal 1",
-"image":"https://www.dropbox.com/s/sbo7fl7kq5n61nz/nba-tv-logo.png?dl=1",
-"url": "http://nbastreams.xyz/live/1/",
-"isHost": "true" 
-},
-{"name": "Nbastreams Canal 2",
-"image":"https://www.dropbox.com/s/sbo7fl7kq5n61nz/nba-tv-logo.png?dl=1",
-"url": "http://nbastreams.xyz/live/2/",
-"isHost": "true" 
-},
-{"name": "Nbastreams Canal 3",
-"image":"https://www.dropbox.com/s/sbo7fl7kq5n61nz/nba-tv-logo.png?dl=1",
-"url": "http://nbastreams.xyz/live/3/",
-"isHost": "true" 
-},
-{"name": "Nbastreams Canal 4",
-"image":"https://www.dropbox.com/s/sbo7fl7kq5n61nz/nba-tv-logo.png?dl=1",
-"url": "http://nbastreams.xyz/live/4/",
-"isHost": "true" 
-},
-
-{"name": "NFL TV",
-"image":"https://www.dropbox.com/s/uw4eb0lkwc7sjd6/NFL_logo.png?dl=1",
-"url": "http://crackstreams.ga/nfl-streams/nfltv/",
-"isHost": "true" 
-},
-
-{"name": "NBC sport",
-"image":"https://www.dropbox.com/s/t05hml772xnrvic/1_0_1_272E_402_1_C00000_0_0_0.png?dl=1",
-"url": "https://ustvgo.tv/nbcsn/",
-"isHost": "true" 
- },
-{"name": "ESPN",
-"image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
-"url":"http://televisiongratisenvivo.com/deportes-en-vivo/espn-mx-en-vivo-online-live-en-directo/",
-"isHost": "true" 
- }, 
- {"name": "ESPN op 2",
-"image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
-"url":"https://www.tvonline.pe/espn-en-vivo/",
-"isHost": "true" 
- },
-
-{"name": "ESPN 2",
-"image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
-"url": "http://televisiongratisenvivo.com/deportes-en-vivo/espn-2-mx-en-vivo-online-live-en-directo/",
-"isHost": "true" 
- },  
-
-{"name": "ESPN 3",
-"image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
-"url": "http://televisiongratisenvivo.com/deportes-en-vivo/espn-3-mx-en-vivo-online-live-en-directo/",
-"isHost": "true" 
- },  
-
-{"name": "ESPN+",
-"image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
-"url": "https://adictosaldeporte.com/ver-espn-plus-en-vivo-24h-2/",
-"isHost": "true" 
- },  
- 
- {"name": "gol peru",
-"image":"https://www.dropbox.com/s/dukshw0au765c2f/1_0_1_384_21_85_C00000_0_0_0.png?dl=1",
-"url": "https://www.tvonline.pe/gol-peru-en-vivo/",
-"isHost": "true" 
- }, 
- 
-  {"name": "Direc Sports",
-"image":"https://www.dropbox.com/s/q3vv5tpxsf8o4ui/direc.png?dl=1",
-"url": "https://www.tvonline.pe/directv-sports-en-vivo/",
-"isHost": "true" 
- }, 
- 
-{"name": "FOX Sport 1", 
-"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
-"url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "FOX Sport 1 Mx", 
-"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
-"url": "https://www.tvonline.pe/fox-sports-en-vivo/",
-"isHost": "true" 
-},
-{"name": "FOX Sport 2 Mx", 
-"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
-"url": "http://televisiongratisenvivo.com/deportes-en-vivo/fox-sports-2-mx-en-vivo-online-live-en-directo/",
-"isHost": "true" 
-},
-
-{"name": "Eleven sport 1 poland",
-"image":"https://www.dropbox.com/s/6l5eci6zzlcikz2/Eleven-Sports-1.png?dl=1",
-"url": "https://daddylive.live/channels/stream-71.php",
-"isHost": "true"
- },
- {"name": "Eleven sport 2 poland",
-"image":"https://www.dropbox.com/s/6l5eci6zzlcikz2/Eleven-Sports-1.png?dl=1",
-"url": " https://ustreamix.to/stream.php?id=eleven-sports-2-poland",
-"isHost": "true"
- },
-
-{"name": "Sky Sports Arena", 
-"image":"https://www.dropbox.com/s/i0q3f1orm439dks/IMG_20200623_090451.jpg?dl=1",
-"url": "https://daddylive.live/channels/stream-36.php",
-"isHost": "true" 
-},
-
-{"name": "Sky S Premier", 
-"image":"https://www.dropbox.com/s/npk6dwc5d6hr7t9/IMG_20200623_090524.jpg?dl=1",
-"url": "https://daddylive.live/channels/stream-46.php",
-"isHost": "true" 
-},
-
-{"name": "Sky Sports m event", 
-"image":"https://www.dropbox.com/s/npk6dwc5d6hr7t9/IMG_20200623_090524.jpg?dl=1",
-"url": "http://www.dubsstreamz.com/ta.php",
-"isHost": "true" 
-},
-{"name": "Sky Sports football", 
-"image":"https://www.dropbox.com/s/npk6dwc5d6hr7t9/IMG_20200623_090524.jpg?dl=1",
-"url": "https://wowtv.info/tv3.html",
-"isHost": "true" 
-},
-
-{"name": "Sky Sports serie A", 
-"image":"https://www.dropbox.com/s/aau7iag1zifxi7n/1_0_16_DD_4_85_C00000_0_0_0.png?dl=1",
-"url": "https://wowtv.info/tv1.html",
-"isHost": "true" 
-},
-
-
-{"name": "Sky Sports 1", 
-"image":"https://www.dropbox.com/s/aau7iag1zifxi7n/1_0_16_DD_4_85_C00000_0_0_0.png?dl=1",
-"url": "https://zonadeportiva.info/tg.php?id=live7t",
-"isHost": "true" 
-},
-{"name": "Sky Sports 2", 
-"image":"https://www.dropbox.com/s/acw8vnyvtqx1v5l/1_0_16_106_3_85_C00000_0_0_0.png?dl=1",
-"url": "https://ustreamix.to/stream.php?id=sky-sport-2-de",
-"isHost": "true" 
-},
-{"name": "BT Sport 1", 
-"image":"https://www.dropbox.com/s/8qscyndatjujdey/Btmotoa.png?dl=1",
-"url": "https://daddylive.live/channels/stream-31.php",
-"isHost": "true"
- },
- 
-{"name": "BT Sport 2", 
-"image":"https://www.dropbox.com/s/8qscyndatjujdey/Btmotoa.png?dl=1",
-"url": "https://daddylive.live/channels/stream-32.php",
-"isHost": "true"
- },
- 
-{"name": "BT Sport 3", 
-"image":"https://www.dropbox.com/s/8qscyndatjujdey/Btmotoa.png?dl=1",
-"url": "https://daddylive.live/channels/stream-33.php",
-"isHost": "true"
- },
- 
-{"name": "Fight time", 
-"image":"https://i.imgur.com/wB9CkPG.jpg",
-"url": "http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8",
-"userAgent": "http-reconnect=true"
-},
-{"name": "Fight Sports 1", 
-"image":"https://i.imgur.com/wB9CkPG.jpg",
-"url": "http://210.210.155.35/uq2663/h/h05/01.m3u8",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "Fight Sports 2", 
-"image":"https://i.imgur.com/wB9CkPG.jpg",
-"url": "http://210.210.155.35/uq2663/h/h05/02.m3u8",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "BOXEO NETWORK",
-"image":"https://www.dropbox.com/s/ibr436rej9iumpj/kisspng-kickboxing.jpg?dl=1",
-"url": "http://www.watchyour.tv/dvr.php?id=786",
-"isHost": "true" 
-},
-{"name": "Combat Go",
-"image":"https://www.dropbox.com/s/ibr436rej9iumpj/kisspng-kickboxing.jpg?dl=1",
-"url": "https://web-tv.netlify.app/1999",
-"isHost": "true" 
-},
-{"name": "RacingCom", 
-"image":"https://www.dropbox.com/s/twxvstlv003ze50/racing.png?dl=1",
-"url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8"
- },
-{"name": "RacingCom opc 2", 
-"image":"https://www.dropbox.com/s/twxvstlv003ze50/racing.png?dl=1",
-"url": "https://web-tv.netlify.app/982",
-"isHost": "true"
- },
-{"name": "Betis TV", 
-"image":"https://i.imgur.com/NC3rEUq.png",
-"url": "https://www.realbetisbalompie.es/rtvbetis/directo-tv/",
-"isHost": "true"
- },
-{"name": "Sevilla FC TV", 
-"image":"https://i.imgur.com/yujGVbm.png",
-"url": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8"
- },
-{"name": "Olympic Channel 1", 
-"image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",
-"url": "http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8",
-"userAgent": "http-reconnect=true"
-},
-{"name": "Olympic Channel 2",
-"image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",
-"url": "https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8",
-"userAgent": "http-reconnect=true"
-},
-{"name": "Olympic Channel 3",
-"image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",
-"url": "https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8",
-"userAgent": "http-reconnect=true"
-},
-{"name": "Olympic Channel 4",
-"image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",
-"url": "https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "Redbull TV", "image":"http://graph.facebook.com/RedBull/picture?width=320&height=320",
-"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "Tenis TV", "image":"https://www.dropbox.com/s/uven8yj4zrwhckt/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da929ec111.0013004015324187066503.jpg?dl=1",
-"url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
-"userAgent": "http-reconnect=true"
-},
-{"name": "Tenis TV 2", "image":"https://www.dropbox.com/s/uven8yj4zrwhckt/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da929ec111.0013004015324187066503.jpg?dl=1",
-"url": "http://203.154.243.89:11739",
-"userAgent": ""
-},
-
-{"name": "Toros",
-"image":"https://www.dropbox.com/s/kfsb6dkpdx5nysp/1_0_1_7570_412_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/canal-toros-en-directo-online-gratis/",
-"isHost": "true" 
-},
-
-{"name": "Real Madridtv",
-"image":"https://www.dropbox.com/s/go5qeckgyi1amw0/1_0_1_7601_408_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/real-madrid-tv-en-directo-online-gratis/",
-"isHost": "true" 
-},
-
-]},
-
-{"name": "TV MOTOR",
-"image": "https://www.dropbox.com/s/78kwds961lryq1k/MOTOR1.jpg?dl=1",
-"stations": [	
-
-{"name": "MotoGP 1",
-"image": "https://www.dropbox.com/s/qcmzzaltb20bujq/GP1.jpg?dl=1",
-"url": "https://sportzonline.co/channels/hd/hd8.php",
-"embed": "true"
- },
-{"name": "MotoGP 2",
-"image": "https://www.dropbox.com/s/qcmzzaltb20bujq/GP1.jpg?dl=1",
-"url": "https://sportzonline.co/channels/pt/sporttv1.php",
-"embed": "true"
-},
-
-{"name": "MotoGP 3 sky",
-"image": "https://www.dropbox.com/s/qcmzzaltb20bujq/GP1.jpg?dl=1",
-"url": "https://adictosalatele.com/TV/deportes/motogp/opcion3.php",
-"embed": "true"
-},
-
-{"name": "MotoGP 4",
-"image": "https://www.dropbox.com/s/qcmzzaltb20bujq/GP1.jpg?dl=1",
-"url": "https://deportesenvivoparatodos001.blogspot.com/p/motogp-en-directo.html",
-"embed": "true"
-},
-{"name": "MotoGP 5",
-"image": "https://www.dropbox.com/s/qcmzzaltb20bujq/GP1.jpg?dl=1",
-"url": "http://www.tvporinternet.eshost.com.ar/p/movistar-moto-gp-en-vivo-por-internet.html",
-"embed": "true"
-}, 
-
-{"name": "MotoGP 6",
-"image": "https://www.dropbox.com/s/qcmzzaltb20bujq/GP1.jpg?dl=1",
-"url": "http://www.sportstream.live/es/player/2e562316a7c5b24f65586b11854d6ee17d69803faedb96058471903830b192ddf437c243c0dd5f3762782ac6799eb2c09fee2a905cf6aa3cd49c62d8ddaad145/5f67566b78e95",
-"embed": "true"
-},
-
-{"name": "MotoGP 7",
-"image": "https://www.dropbox.com/s/qcmzzaltb20bujq/GP1.jpg?dl=1",
-"url": "http://www.sportstream.live/es/player/2e562316a7c5b24f65586b11854d6ee17d69803faedb96058471903830b192ddf437c243c0dd5f3762782ac6799eb2c0d6c2566f9314651c1b91154b0df1d704/5f6756ca582a2",
-"embed": "true"
-},
-
-{"name": "MotoGP 8",
-"image": "https://www.dropbox.com/s/qcmzzaltb20bujq/GP1.jpg?dl=1",
-"url": " http://www.sportstream.live/es/player/2e562316a7c5b24f65586b11854d6ee17d69803faedb96058471903830b192dda28b9480d54a97de55fefeb403725fb79fee2a905cf6aa3cd49c62d8ddaad145/5f67571e387b7",
-"embed": "true"
-},
-
-{"name": "DAZN GP",
-"image":"https://www.dropbox.com/s/ymrvt8y3f2sglw4/danz%20GP.png?dl=1",
-"url": "https://adictosaldeporte.com//TV/deportes/dazn/",
-"embed": "true"
-},
-{"name": "DAZN GP op2", 
-"image":"https://www.dropbox.com/s/ymrvt8y3f2sglw4/danz%20GP.png?dl=1",
-"url": "https://adictosalatele.com/dazn-online-en-directo-gratis/",
-"embed": "true"
-},
-{"name": "DAZN GP op3", 
-"image":"https://www.dropbox.com/s/ymrvt8y3f2sglw4/danz%20GP.png?dl=1",
-"url": "https://zonadeportiva.info/tg.php?id=live14w",
-"embed": "true"
-},
-{"name": "DAZN GP op4", 
-"image":"https://www.dropbox.com/s/ymrvt8y3f2sglw4/danz%20GP.png?dl=1",
-"url": "https://zonadeportiva.info/tg.php?id=air14",
-"embed": "true"
-},
-{"name": "DAZN GP op5", 
-"image":"https://www.dropbox.com/s/ymrvt8y3f2sglw4/danz%20GP.png?dl=1",
-"url": "https://zonadeportiva.info/tg.php?id=live14t",
-"embed": "true"
-},
-{"name": "DAZN GP op6", 
-"image":"https://www.dropbox.com/s/ymrvt8y3f2sglw4/danz%20GP.png?dl=1",
-"url": "https://adictosalatele.com/TV/deportes/motogp/",
-"embed": "true"
-},
-{"name": "DAZN GP op7", 
-"image":"https://www.dropbox.com/s/ymrvt8y3f2sglw4/danz%20GP.png?dl=1",
-"url": "https://adictosalatele.com/TV/deportes/motogp/opcion2.php",
-"embed": "true"
-},
-
-{"name": "F1 MOVISTAR",
-"image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
-"url": "https://adictosalatele.com/TV/deportes/formula1/",
-"embed": "true"
-},
-{"name": "F1 MOVISTAR op2",
-"image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
-"url": "https://adictosalatele.com/TV/deportes/formula1/opcion2.php",
-"embed": "true"
-},
-{"name": "F1 MOVISTAR opc3",
-"image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
-"url": "https://adictosalatele.com/TV/deportes/formula1/opcion3.php",
-"embed": "true"
-},
- {"name": "F1 MOVISTAR opc4",
-"image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
-"url": "https://adictosalatele.com/TV/deportes/formula1/opcion4.php",
-"embed": "true"
-},
-
-{"name": "Formula1",
-"image": "https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
-"url": "https://deportesenvivoparatodos001.blogspot.com/p/f1-en-directo-opcion-2.html?m=1",
-"embed": "true"
-},
-{"name": "Formula1 2",
-"image": "https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
-"url": "https://deportesenvivoparatodos001.blogspot.com/p/f1-en-directo-opcion-3.html",
-"embed": "true"
-},
-{"name": "Formula1 3",
-"image": "https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
-"url": "https://deportesenvivoparatodos001.blogspot.com/p/f1-en-directo-opcion-4.html",
-"embed": "true"
-},
-{"name": "Formula1 4",
-"image": "https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
-"url": "https://daddylive.live/channels/stream-60.php",
-"isHost": "true"
- },
-
-
-]},
-
-{"name": "Paginas de Deportes",
-"image": "https://www.dropbox.com/s/s8unfqk8gdotwch/bf15463024fb8d338a159a4d53f8eef0.gif?dl=1",
-"stations":[
-
-
-{"name": "Hulkstream Futbol", 
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "https://www.hulkstream.com/livesport/football/",
-"embed": "true" 
-},
-
-{"name": "Hulk Baloncesto", 
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "https://www.hulkstream.com/livesport/basketball/",
-"embed": "true" 
-},
-{"name": "Hulkstream Motor", 
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "https://www.hulkstream.com/livesport/racing/",
-"embed": "true" 
-},
-
-{"name": "Livetotal",                          
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "https://www.livetotal.net/livenow/",
-"embed": "true"
-},
-
-{"name": "Dailysport", 
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "https://dailysport.pw/",
-"embed": "true" 
-},
-
-{"name": "Zonadeportiva", 
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "https://zonadeportiva.info/",
-"embed": "true" 
-},
-
-
-{"name": "Ustreamix sport", 
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "https://ustreamix.to/search.php?q=sport&ref=h1/",
-"embed": "true"
-},
-
-{"name": "Realtv",                     
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "http://www.realtvsport.com/index.php",
-"embed": "true"
-},
-
-{"name": "SuerSport",                     
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "https://supersport.com/",
-"embed": "true"
-},
-
-{"name": "elixx",                     
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "http://elixx.me/wajax.html",
-"embed": "true"
-},
-
-
-
-{"name": "Feet2all sport", 
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "http://myfeed2all.eu/type/football/",
-"embed": "true" 
-  },
- 
-{"name": "Freestream sport", 
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "http://freestreams-live1.com/",
-"embed": "true"
-   },
-
-{"name": "VipBox sport", 
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "http://vipbox.biz/",
-"embed": "true" 
-   },
-{"name": "Hesgoal",
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "http://www.hesgoal.com/",
-"embed": "true"
-},
-
-{"name": "S365",
-"image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
-"url": "http://www.s365.live/es/home",
-"embed": "true"
-},
-
-
-]},
-
-{"name": " 24H CINE ONLINE LAT",
- "image": "https://www.dropbox.com/s/5cb0dv0u9aj5azk/colchoneta-pirata-159x120cm.jpg?dl=1",
-"stations": [
-
-{ "name": "24h TERROR LAT", 
-"image": "https://www.dropbox.com/s/5cb0dv0u9aj5azk/colchoneta-pirata-159x120cm.jpg?dl=1",  
-"url": "https://www.zonafilmstv.com/p/zonafilmsterror.html", 
-"isHost": "true" }, 
-{ "name": "24h ZONA terror LAT", 
-"image": "https://www.dropbox.com/s/5cb0dv0u9aj5azk/colchoneta-pirata-159x120cm.jpg?dl=1",  
-"url": "https://www.zonafilmstv.com/p/zfterror.html", 
-"isHost": "true" }, 
-{ "name": "24h TERROR Mania LAT", 
-"image": "https://www.dropbox.com/s/5cb0dv0u9aj5azk/colchoneta-pirata-159x120cm.jpg?dl=1",  
-"url": "https://www.zonafilmstv.com/p/terrormania.html", 
-"isHost": "true" },
-{ "name": "24h FILMS Mania LAT", 
-"image": "https://www.dropbox.com/s/5cb0dv0u9aj5azk/colchoneta-pirata-159x120cm.jpg?dl=1",  
-"url": "https://www.zonafilmstv.com/p/zonafilmstv.html", 
-"isHost": "true" },
-{ "name": "24h KATYHD LAT", 
-"image": "https://www.dropbox.com/s/5cb0dv0u9aj5azk/colchoneta-pirata-159x120cm.jpg?dl=1",  
-"url": "https://www.mundotvlatino.com/p/katyhd.html", 
-"isHost": "true" },
-{"name": "24h PELIS Mania 24-7 LAT", 
-"image":"https://www.dropbox.com/s/5cb0dv0u9aj5azk/colchoneta-pirata-159x120cm.jpg?dl=1",
-"url": "https://www.mundotvlatino.com/p/peliculas-mania.html",
-"isHost": "true"},
- {"name": "24h VITACINE LAT", 
-"image":"https://www.dropbox.com/s/5cb0dv0u9aj5azk/colchoneta-pirata-159x120cm.jpg?dl=1",
-"url": "https://www.zonafilmstv.com/p/vitatotv.html",
-"isHost": "true"},
- {"name": "24h LATINO MOVIES", 
-"image":"https://www.dropbox.com/s/5cb0dv0u9aj5azk/colchoneta-pirata-159x120cm.jpg?dl=1",
-"url": "https://www.zonafilmstv.com/p/latinomovies.html",
-"isHost": "true" },
- 
- ]},
- 
- {"name": "PAGINAS DE PELICULAS",
-"image": "https://www.dropbox.com/s/8q9jcayz5zqxypd/unnamed.gif?dl=1",
-"stations": [
- 
-{"name": "Dilo nu online",
-"image":"https://www.dropbox.com/s/v1hjltaycz02j3b/dilo%20nu_090022.jpg?dl=1",
-"url": "https://www.dilo.nu/catalogue?genre%5B%5D=animacion&genre%5B%5D=kids&genre%5B%5D=infantil",
-"embed": "true"}, 
-{"name": "Movidy online",
-"image":"https://www.dropbox.com/s/7on1rn3qwfqbt6h/movidi_090613.jpg?dl=1",
-"url": "https://movidy.co/",
-"embed": "true"}, 
-{"name": "BREAKTIME ONLINE",
-"image":"https://www.dropbox.com/s/0xsxansnhw85uod/break-time-tv-25154-0.jpg?dl=1",
-"url": "https://breaktimetv.github.io/peliculas",
-"embed": "true" }, 
-{"name": "CUEVANA ONLINE",
-"image":"https://www.dropbox.com/s/3a8dq3uvc1333zk/cuevana_logo.jpg?dl=1",
- "url": "https://cuevana2espanol.com/ver-pelicula-online/",
-"embed": "true"},
-{"name": "PELISVIP ONLINE",
-"image":"https://www.dropbox.com/s/8s3y3ptn4zqydc3/pelisvip_090518.jpg?dl=1",
-"url": "https://pelisvips.com/",
-"embed": "true"},
-{"name": "VERPELISONLINE TV",
-"image":"https://www.dropbox.com/s/n230xe6dy2j1hr6/Screenshot_2020-05-09-09-17-18-435_com.wiseplay.jpg?dl=1",
- "url": "https://verpelisonline.tv/",
-"embed": "true"},
-{"name": "PELISPEDIA ONLINE",
-"image":"https://www.dropbox.com/s/8qtwku5rppoiqt7/pelispedia_090543.jpg?dl=1",
-"url": "https://www.pelispedia.biz/",
-"embed": "true"},
-{"name": "GNULA ONLINE",
-"image":"https://www.dropbox.com/s/kif2ardh8mbhp5z/gnula_090657.jpg?dl=1",
-"url": "https://gnula.blog/",
-"embed": "true"
-},
-
-{"name": "Cine-ONLINE",
-"image":"https://www.dropbox.com/s/oncxlvm8rklnhbg/wordpress-theme-grifus-dira2-o.jpg?dl=1",
-"url": "https://www.cine-online.eu/",
-"embed": "true"
-},
-
-{"name": "PLEXEROS registro",
-"image":"https://www.dropbox.com/s/wrvzerkbs23lnt9/Screenshot_2020-05-17-14-20-29-954_com.android.chrome.jpg?dl=1",
-"url": "http://plexeros.com/",
-"embed": "true"
-},
-
-
-]},
-
-{"name": "SERIES",
-"image": "https://www.dropbox.com/s/szlx3x2a9l5dnay/SERIES.jpg?dl=1",
-"stations":[
-
-{"name": "V los visitantes", "image": "https://www.dropbox.com/s/btyimq62jikfh0e/IMG_20200719_024220.jpg?dl=1",
-"url": "https://mega.nz/folder/kcggUTTJ#Ljd8HF2YVKxEtWg9--5vSw", 
-"embed": "true"},
-{"name": "El gran heroe americano temp 1", "image": "https://www.dropbox.com/s/hi7y8rxyxkh8ut9/ghamc.jpg?dl=1",
-"url": "https://mega.nz/#F!lloTVAha!kzK5AvGOgK3utmaNdg1XfA", 
-"embed": "true"},
-{"name": "El gran heroe americano temp 2", "image": "https://www.dropbox.com/s/hi7y8rxyxkh8ut9/ghamc.jpg?dl=1",
-"url": "https://mega.nz/folder/5goxQYLT#B1CeObRm0x0TWTaGy4ZVYg", 
-"embed": "true"},
-{"name": "El gran heroe americano temp 3", "image": "https://www.dropbox.com/s/hi7y8rxyxkh8ut9/ghamc.jpg?dl=1",
-"url": "https://mega.nz/folder/EspVjK4B#__L4TYxj0zsblu1WqF_K0w", 
-"embed": "true"},
-
-
-
-]},
-
-
-
-{"name": "RADIOS ONLINE",
-"image": "https://www.dropbox.com/s/hmtjymscccvv8j3/radio-imagen-animada-0065.gif?dl=1",
-"stations":[
-
-
-{"name": "Europa Fm", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "https://www.europafm.com/directo/",
-"userAgent": "http-reconnect=true"
-},
-
-
-{"name": "Los 40", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "https://play.los40.com/",
-"embed": "true"
-},
-
-{"name": "Radiolé", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "Rock Fm", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "Rock Fm 2", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "https://emisora.org.es/rock-fm/",
-"embed": "true"
-},
-
-{"name": "Kis Fm", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "http://kissfm.kissfmradio.cires21.com/kissfm.mp3",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "Canal Sur Radio", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/chunklist_b250000.m3u8",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "Canal Fiesta Radio", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/chunklist_b250000.m3u8",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "Cadena Cope", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "https://flucast-m04-06.flumotion.com/cope/net1.mp3",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "Cadena 100", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "http://195.55.74.203/cope/cadena100.mp3",
-"userAgent": "http-reconnect=true"
-},
-
-{"name": "Cadena Dial", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
-"userAgent": "http-reconnect=true"
-},
-
-
-{"name": "Cadena Ser", "image":"https://www.dropbox.com/s/u47ccrq5kjuktlm/design-logo-online-radio-or-color-icon-vector-25998091.jpg?dl=1",
-"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
-"userAgent": "http-reconnect=true"
-},
-
-
-
-]},
-
-{"name": "TV Música",
-"image": "https://www.dropbox.com/s/627zdpljgj7b6o8/b225adbc32a48f5e890a587fa2511f9c.gif?dl=1",
-"imageScale": "",
-"stations":[
-
-{"name": "ViVa music",
-"image": "https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "https://www.smashcast.tv/embed/viva-polska?autoplay=true/",
-"isHost": "true"
-},
-
-{"name": "ViVa music 2",
-"image": "https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "https://vk.com/video-177948463_456239182?list=1ed67413185f6e226a",
-"isHost": "true"
-},
-
-{"name": "Vibee TV music",
-"image": "https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
-"isHost": "true"
-},
-
-{"name": "Pulse music",
-"image": "https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "https://vk.com/video-177948463_456239130",
-"isHost": "true"
-},
-
-{"name": "Pulse music 2 ",
-"image": "https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "https://ok.ru/video/1288727174665/",
-"isHost": "true"
-},
-{"name": "Life Music",
-"image": "https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "http://media.profesionalhosting.com:1935/8441/8441/playlist.m3u8",
-"userAgent": "http-reconnect=true"
-},
-{"name": "carolinatv",
-"image": "https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "https://www.carolina.cl/tv/",
-"isHost": "true"
-},
-
-{"name": "Mooz Dance", "image":"https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END",
-"userAgent": "http-reconnect=true"
- },
-
-{"name": "Mooz Hits", "image":"https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END",
-"userAgent": "http-reconnect=true"
- },
- 
-{"name": "DJING HITS", "image":"https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "https://www.djing.com/tv/hits.m3u8",
-"userAgent": "http-reconnect=true" 
- },
-
-{"name": "DJING hot", "image":"https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8",
-"userAgent": "http-reconnect=true"
- },
-
-{"name": "DJING summer", "image":"https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "http://www.djing.com/tv/session_summer-vibes.m3u8",
-"userAgent": "http-reconnect=true"
- },
-
-{"name": "Music Top", "image":"https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w265474821_b2028000_sleng.m3u8",
-"userAgent": "http-reconnect=true"
- },
-{"name": "Music Box Ru", "image":"https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8",
-"userAgent": "http-reconnect=true" 
- },
-{"name": "Hit Tv", "image":"https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "https://rosshow.gcdn.co/streams/1410_287/720n/index.m3u8",
-"userAgent": "http-reconnect=true"
- },
-
-{"name": "M2OTV", "image":"https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8",
-"userAgent": "http-reconnect=true" 
- }, 
- 
-{"name": "RUTV", "image":"https://www.dropbox.com/s/76xmhm5nveo2wbb/d7e92811364aa9b4c4f122942feae316.gif?dl=1",
-"url": "https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8",
-"userAgent": "http-reconnect=true" 
- },
-
-]},
-
-
-
-{"name": "COVID-19 Pandemic WORLD",
-"imageScale": "",
-"image": "https://www.dropbox.com/s/wj4v8hgennpsrmq/COVID%2B19%2BPANDEMIC.jpg?dl=1",
-"stations": [	
-
-{"name": "COVID-19 Pandemic",
-"image": "https://www.dropbox.com/s/xkzlo2c0zf7qbzg/covid-19-coronavirus-y-el-consumo-de-energia-241251-2_768.jpg?dl=1",
-"url": "https://www.worldometers.info/coronavirus/",
-"embed": "true"
- },
-    {"name": "COVID-19 tv",
-"image": "https://www.dropbox.com/s/xkzlo2c0zf7qbzg/covid-19-coronavirus-y-el-consumo-de-energia-241251-2_768.jpg?dl=1",
-"url": "https://www.youtube.com/embed/NMre6IAAAiU",
-"embed": "true"
-},
-
-    
-]},
-
-
-{"name": "PROGRAMACION DE TV",
-"imageScale": "",
-"image": "https://www.dropbox.com/s/xw097h0m28ilifl/xprogramacion-tv.png.pagespeed.ic.Ct_80HMG76.png?dl=1",
-"stations": [	
-
-{"name": "GUIA tvguia es",
-"image": "https://www.dropbox.com/s/xw097h0m28ilifl/xprogramacion-tv.png.pagespeed.ic.Ct_80HMG76.png?dl=1",
-"url": "http://www.tvguia.es/programacion-tv/programacion-tv-ahora",
-"embed": "true"
-       },
-{"name": "GUIA movistarplus",
-"image": "https://www.dropbox.com/s/xw097h0m28ilifl/xprogramacion-tv.png.pagespeed.ic.Ct_80HMG76.png?dl=1",
-"url": "http://www.movistarplus.es/programacion-tv",
-"embed": "true"
- },
-{"name": "GUIA formulatv",
-"image": "https://www.dropbox.com/s/xw097h0m28ilifl/xprogramacion-tv.png.pagespeed.ic.Ct_80HMG76.png?dl=1",
-"url": "https://www.formulatv.com/programacion/movistarplus/",
-"embed": "true"
- },
-
-]},
-
-{"name": "Listas Wiseplay_com",
- "image": "https://www.dropbox.com/s/4vxb6ea8n63stfi/listas-wiseplay-portada.jpg?dl=1",
-"stations": [
-
-
-
-{"name": "Listas Wiseplay_com Web oficial",
-                        "image":"https://www.dropbox.com/s/526dh7ym6zr04ps/IMG_20200615_100902.jpg?dl=1",
- "url": "https://listaswiseplay.com/",
-"embed": "true"
- }, 
-
-{"name": "Listas Wiseplay_com Telegram ",
-                        "image":"https://www.dropbox.com/s/bwuz2rhzjjiczo4/IMG_20200615_101207.jpg?dl=1",
- "url": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://t.me/listaswiseplay&ved=2ahUKEwiq5rDzsYPqAhVS8uAKHVioCvEQFjAAegQIARAB&usg=AOvVaw1E4Z8oCjxV85IWS2QgaKrA",
-"embed": "true"
- }, 
- 
-]},
-
-
-
-
-{"name": "Protectoras De Animales By Vargas",
- "image": "https://www.dropbox.com/s/suyicgchmcy6in5/huertodlc.jpeg?dl=1",
-"stations": [
-
-
-
-{"name": "Protectora Gatetes by Vargas",
-                        "image":"https://www.dropbox.com/s/cdjw2kjd28lkjjq/IMG_20200714_191908_841.jpg?dl=1",
- "url": "https://telegra.ph/Ayuda-a-la-protectora-gatetes-07-08",
-"embed": "true"
- }, 
-
-{"name": "Protectora Maginaanimal by Vargas",
-                        "image":"https://www.dropbox.com/s/xb07e4nj4wwcbnh/IMG_20200714_191913_635.jpg?dl=1",
- "url": "https://telegra.ph/Ayuda-a-la-protectora-07-08",
-"embed": "true"
- }, 
- 
-]},
-
-
-
-{"name": "TEAM SPORT",
- "image": "https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
-"stations": [
-
-
-{"name": "Team Sport",
-                        "image":"https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
- "url": "https://appteamsports.github.io/",
-"embed": "true"
- }, 
-
-{"name": "App team Sport",
-                        "image":"https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
- "url": "https://appteamsports.github.io/#download",
-"embed": "true"
- }, 
-
- 
-]},
-  
-{"name": "INFO",
-"image": "https://www.dropbox.com/s/plok5hcbkq09jxk/bien.png?dl=1",
-"stations":[
-
-
-{"name": "#QUEDATEENCASA", "image":"https://www.dropbox.com/s/pohdmb0it1pc2gr/Quedate-en-casa.jpg?dl=1",
-"url": "https://m.youtube.com/watch?v=Q1WMc6XRizw",
-"embed": "true"
-
-
-},
-
-{"name": "el contenido es libre y personal no soy responsable de tu mal uso", "image":"https://www.dropbox.com/s/pohdmb0it1pc2gr/Quedate-en-casa.jpg?dl=1",
-"url": "https://m.youtube.com/watch?v=KjDbmjROHHA",
-"embed": "true"
-
-},
-
-
-{"name": "Agradezco a GRUPO TDT CHANNEL por los TDT", "image":"https://www.dropbox.com/s/3w3ovahh5n86pp0/gracias-por-tu-compra.jpg?dl=1",
-"url": "http://ultimaeiptv.me:8081//NzGm4354.m3u8",
-"userAgent": ""
-
-},
-
-
-{"name": "Agradezco a Abel-HelmerLuzo-Chee-jespelt-botas-chucki-hannibal- A todos los users de grupos-etc", "image":"https://www.dropbox.com/s/3w3ovahh5n86pp0/gracias-por-tu-compra.jpg?dl=1",
-"url": "http://ultimaeiptv.me:8081//NzGm4354.m3u8",
-"userAgent": ""
-
-},
-
-]},
-
-
-]}
+		}, {
+			"name": "",
+			"image": "https://www.roninwear.com/images/venum-boxing-gloves-contender-20-black-grey-1.jpg",
+			"url": "http://nbastreams123.xyz/boxingstreams/watch-dazn-whyte-vs-povetkin/video.php",
+			"referer": "http://crackstreams.com/boxing-streams/watch-dazn-whyte-vs-povetkin/",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"url": "http://nbastreams123.xyz/boxingstreams/watch-dazn-whyte-vs-povetkin/video.php",
+			"referer": "http://crackstreams.com/boxing-streams/watch-dazn-whyte-vs-povetkin/",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://www.roninwear.com/images/venum-boxing-gloves-contender-20-black-grey-1.jpg",
+			"url": "http://nbastreams123.xyz/boxingstreams/watch-dazn-braekhus-vs-mccaskill/video.php",
+			"referer": "http://crackstreams.com/boxing-streams/watch-dazn-braekhus-vs-mccaskill/",
+			"isHost": "true"
+		}]
+	}, {
+		"name": "Eventos deportivos mix (La Liga - Lagiga Smartank - La liga ACB - NBA 2020)",
+		"image": "https://www.estrelladigital.es/media/estrelladigital/images/2019/02/11/2019021122542897090.png",
+		"info": "",
+		"stations": [{
+			"name": "Huesca vs Cádiz",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "https://dailysport.pw/c1.php",
+			"isHost": "true"
+		}, {
+			"name": "Huesca vs Cádiz",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"userAgent": "Lavf/57.83.100",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/36.ts"
+		}, {
+			"name": "Granada vs Alavés",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "https://dailysport.pw/c1.php",
+			"isHost": "true"
+		}, {
+			"name": "Granada vs Alavés",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"userAgent": "Lavf/57.83.100",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/36.ts"
+		}, {
+			"name": "Real Sociedad vs Real Madrid",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "https://dailysport.pw/c1.php",
+			"isHost": "true"
+		}, {
+			"name": "Real Sociedad vs Real Madrid",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"userAgent": "Lavf/57.83.100",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/36.ts"
+		}, {
+			"name": "Lugo vs Leganés",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "https://dailysport.pw/c1.php",
+			"isHost": "true"
+		}, {
+			"name": "Lugo vs Leganés",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "http://assia.tv/live2/sportofeurope/?lang=es",
+			"isHost": "true"
+		}, {
+			"name": "Espanyol vs Mallorca",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "https://dailysport.pw/c12.php",
+			"isHost": "true"
+		}, {
+			"name": "Espanyol vs Mallorca",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "http://assia.tv/live2/mix7/?lang=es",
+			"isHost": "true"
+		}, {
+			"name": "Albacete vs Ponferradina",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "https://dailysport.pw/c7.php",
+			"isHost": "true"
+		}, {
+			"name": "Albacete vs Ponferradina",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "http://assia.tv/live2/mix7/?lang=es",
+			"isHost": "true"
+		}, {
+			"name": "Cartagena vs Sporting Gijón",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "https://dailysport.pw/c6.php",
+			"isHost": "true"
+		}, {
+			"name": "Cartagena vs Sporting Gijón",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "http://assia.tv/live2/mix3/?lang=es",
+			"isHost": "true"
+                }, {
+			"name": "Las Palmas vs Fuenlabrada",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "https://dailysport.pw/c6.php",
+			"isHost": "true"
+		}, {
+			"name": "Cartagena vs Sporting Gijón",
+			"image": "https://i.pinimg.com/originals/21/51/49/2151491e4502460763fe81aff4473217.jpg",
+			"url": "http://assia.tv/live2/mix3/?lang=es",
+			"isHost": "true"
+		}, {
+			"name": "Nuggets - Lakers",
+			"image": "https://i.ibb.co/xhbmC8z/Sin-t-tulo1.gif",
+			"url": "http://givemenbastreams.com/nba.php?g=lakers",
+			"referer": "http://nbastream.tv/denver-nuggets-live-stream/",
+			"isHost": "true"
+		}, {
+			"name": "ESPN-Argentina",
+			"image": "https://i.ibb.co/pfvTKxK/espn.gif",
+			"url": "http://totalsport.me/player/11",
+			"isHost": "true"
+		}, {
+			"name": "Movistar Deporte",
+			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
+			"url": "http://185.140.187.41:8000/play/a03m/index.m3u8",
+			"userAgent": ""
+                }, {
+			"name": "Tenerife - Zaraoza",
+			"image": "https://fullbasket.es/wp-content/uploads/2016/02/acb_logo1-1.jpg",
+			"url": "http://assia.tv/live2/mix8/?lang=es",
+			"isHost": "true"
+		}, {
+			"name": "Movistar Estudiantes vs BAXI ManresaB",
+			"image": "https://fullbasket.es/wp-content/uploads/2016/02/acb_logo1-1.jpg",
+			"url": "https://dailysport.pw/c24.php",
+			"isHost": "true"
+		}, {
+			"name": "MoraBanc Andorra vs UCAM Murcia CB",
+			"image": "https://fullbasket.es/wp-content/uploads/2016/02/acb_logo1-1.jpg",
+			"url": "https://dailysport.pw/c21.php",
+			"isHost": "true"
+                }, {
+			"name": "MoraBanc Andorra vs UCAM Murcia CB",
+			"image": "https://fullbasket.es/wp-content/uploads/2016/02/acb_logo1-1.jpg",
+			"url": "http://assia.tv/live2/golandpas/?lang=es",
+			"isHost": "true"
+		}, {
+			"name": "Baskonia vs Valencia Basket",
+			"image": "https://fullbasket.es/wp-content/uploads/2016/02/acb_logo1-1.jpg",
+			"url": "https://dailysport.pw/c25.php",
+			"isHost": "true"
+                }, {
+			"name": "Baskonia vs Valencia Basket",
+			"image": "https://fullbasket.es/wp-content/uploads/2016/02/acb_logo1-1.jpg",
+			"url": "http://assia.tv/live2/citybet/?lang=ru",
+			"isHost": "true"
+		}, {
+			"name": "Barça Basket vs San Pablo Burgos",
+			"image": "https://fullbasket.es/wp-content/uploads/2016/02/acb_logo1-1.jpg",
+			"url": "https://dailysport.pw/c21.php",
+			"isHost": "true"
+		}, {
+			"name": "Barça Basket vs San Pablo Burgos",
+			"image": "https://fullbasket.es/wp-content/uploads/2016/02/acb_logo1-1.jpg",
+			"url": "http://assia.tv/live2/golandpas/?lang=es",
+			"isHost": "true"
+		}, {
+			"name": "Monbus Obradoiro vs Fuenlabrada CB",
+			"image": "https://fullbasket.es/wp-content/uploads/2016/02/acb_logo1-1.jpg",
+			"url": "https://dailysport.pw/c21.php",
+			"isHost": "true"
+                 }, {
+			"name": "Monbus Obradoiro vs Fuenlabrada CB",
+			"image": "https://fullbasket.es/wp-content/uploads/2016/02/acb_logo1-1.jpg",
+			"url": "http://assia.tv/live2/golandpas/?lang=es",
+			"isHost": "true"
+		}]
+	}, {
+		"name": "Motor mix",
+		"image": "https://1.bp.blogspot.com/-j-rUsRVKFfI/U0UT07TVhKI/AAAAAAAABYM/86Z3xt6KfmE/s1600/v8-motor.gif",
+		"info": "",
+		"stations": [{
+			"name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"url": "http://thagui-group-bolivia.com:25461/live/kqu2wvVKME/Descarga-Desde-PlayStore-GnulaTV-GRATIS/62541.m3u8",
+			"userAgent": "GnulaTVLiteGO/14.7 (Linux;Android 10) ExoPlayerLib/2.7.3"
+		}, {
+			"name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"url": "https://dailysport.pw/c10.php",
+			"isHost": "true"
+		}, {
+			"name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"url": "https://daddylive.live/embed/stream-26.php",
+			"referer": "https://streamcr7.com/Tuscan-Grand-Prix-2020/2926",
+			"isHost": "true"
+		}, {
+			"name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"userAgent": "Lavf/57.83.100",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/30.ts"
+		}, {
+			"name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/27.ts",
+			"isHost": "nwe_user2"
+		}, {
+			"name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"url": "https://footyhunter1.xyz/papahd/stream-26.php",
+			"isHost": "true"
+		}, {
+			"name": "Formula 1",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"url": "https://www.vipleague.cc/movistar-formula-1-movistar-f1-streaming-link-1",
+			"referer": "https://www.vipleague.cc/formula-1-schedule-streaming-links",
+			"isHost": "true"
+		}, {
+			"name": "Formula 1-Italiano",
+			"image": "https://i.ibb.co/1mQn1cW/Sin-t-tulo.jpg",
+			"url": "https://zonadeportiva.info/tg.php?id=live2w",
+			"isHost": "true"
+		}, {
+			"name": "Formula 1-Latino",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"url": "http://papahd.live/f1-italian-channel/",
+			"isHost": "true"
+		}, {
+			"name": "Formula 1-Inglés",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
+			"url": "http://liveonscore.net/motor-sports/formula-one-world-championship/",
+			"isHost": "true"
+		}, {
+			"name": "Indycar",
+			"image": "https://stevejonesshow.com/wp-content/uploads/2014/03/indycar-logo.jpg",
+			"url": "http://live.harleyquinnwidget.live/streamvideo13/watch-real-madrid-live-streaming-10-5227189.html",
+			"userAgent": "navigator"
+		}, {
+			"name": "Indycar",
+			"image": "https://stevejonesshow.com/wp-content/uploads/2014/03/indycar-logo.jpg",
+			"url": "https://1.vecdn.pw/ch10.php",
+			"isHost": "true"
+		}, {
+			"name": "Moto GP",
+			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
+			"url": "https://dailysport.pw/c20.php",
+			"isHost": "true"
+		}, {
+			"name": "Moto GP",
+			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
+			"url": "https://adictosalatele.com/TV/deportes/dazn/",
+			"userAgent": "navigator"
+		}, {
+			"name": "Sky Moto GP",
+			"image": "https://pbs.twimg.com/profile_images/1144639333246410752/zM1xItYR_400x400.jpg",
+			"url": "http://31.220.40.44:80/1979_1b92dd/279066/191",
+			"userAgent": ""
+		}, {
+			"name": "Moto GP",
+			"url": "http://liveonscore.tv/motor-sports/motogp-world-championship/",
+			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
+			"isHost": "true"
+		}, {
+			"name": "Moto GP - Latino",
+			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
+			"referer": "https://totalsport.me/player/13",
+                        "url" : "https://live-tennis.stream/stream/54015.html",
+			"isHost": "true"
+		}, {
+			"name": "Nascar",
+			"image": "https://i.ibb.co/J7tCKgR/maxresdefault-live.jpg",
+			"url": "http://elixx.me/evalencia.html",
+			"isHost": "true"
+		}, {
+			"name": "Nascar",
+			"image": "https://i.ibb.co/J7tCKgR/maxresdefault-live.jpg",
+			"url": "http://www.bfst.xyz/two.php",
+			"referer": "http://bfst.xyz/motogp.php",
+			"isHost": "true"
+		}]
+	}, {
+		"name": "Zona Sportzonline, eventos diarios",
+		"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+		"info": "",
+		"stations": [{
+			"name": "Programacion",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.to/prog.txt",
+			"embed": "true"
+		}, {
+			"name": "Canal HD1",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.to/channels/hd/hd1.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal HD2",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.co/channels/hd/hd2.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal HD3",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.co/channels/hd/hd3.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal HD4",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.co/channels/hd/hd4.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal HD5",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.co/channels/hd/hd5.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal HD6-La liga",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.co/channels/hd/hd6.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal HD7",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.co/channels/hd/hd7.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal HD8",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.co/channels/hd/hd8.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal tv1",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.to/channels/pt/sporttv1.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal tv2",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.to/channels/pt/sporttv2.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal tv3",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.to/channels/pt/sporttv3.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal tv4",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.to/channels/pt/sporttv4.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal tv5",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.to/channels/pt/sporttv5.php",
+			"isHost": "true"
+		}, {
+			"name": "Canla tv6",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.to/channels/pt/sporttv6.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal br1",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.co/channels/bra/br1.php",
+			"isHost": "true"
+		}, {
+			"name": "Canal br2",
+			"image": "https://i.ibb.co/XL9HYCd/sportz.gif",
+			"url": "https://sportzonline.co/channels/bra/br2.php",
+			"isHost": "true"
+		}]
+	}, {
+		"name": "Bundesliga",
+		"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+		"info": "",
+		"stations": [{
+			"name": "ESPN-Argentina",
+			"image": "https://i.ibb.co/pfvTKxK/espn.gif",
+			"url": "https://live-tennis.stream/stream/54013.html",
+			"referer": "http://totalsport.me/player/11",
+			"isHost": "true"
+		}, {
+			"name": "ESPN2-Argentina",
+			"image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+			"url": "https://live-tennis.stream/stream/54014.html",
+			"referer": "https://totalsport.me/player/12",
+			"isHost": "true"
+		}, {
+			"name": "Fox Sport 1-Argentina",
+			"image": "https://adictosalatele.com/logos/foxsports1ar.png",
+			"url": "https://adictosaldeporte.com/ver-fox-sports-en-vivo-24h/"
+		}, {
+			"name": "Fox Sport 2-Argentina",
+			"image": "https://adictosalatele.com/logos/foxsports2ar.png",
+			"url": "https://adictosaldeporte.com/ver-fox-sports-2-en-vivo-24h/",
+			"isHost": "true"
+		}, {
+			"name": "BT Sport-1",
+			"image": "https://i.ibb.co/THBmVMf/BT-Sport-1.gif",
+			"url": "https://hindimean.com/stream2watch/btsport-1.php",
+			"isHost": "true"
+		}, {
+			"name": "RB Leipzig vs Mainz 05",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "https://dailysport.pw/c8.php",
+			"isHost": "true"
+		}, {
+			"name": "RB Leipzig vs Mainz 05",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "http://assia.tv/live2/mix4/?lang=de",
+			"isHost": "true"
+		}, {
+			"name": "VfL Wolfsburg vs Bayer Leverkusen",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "https://dailysport.pw/c8.php",
+			"isHost": "true"
+		}, {
+			"name": "VfL Wolfsburg vs Bayer Leverkusen",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "http://www.bfst.xyz/ch4.php",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "http://liveonscore.net/soccer-streams/eintracht-frankfurt-vs-paderborn/",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "http://liveonscore.net/soccer-streams/freiburg-vs-schalke-04/",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "http://liveonscore.net/soccer-streams/union-berlin-vs-fortuna-dusseldorf/",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "http://liveonscore.net/soccer-streams/werder-bremen-vs-koln/",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
+			"url": "http://liveonscore.net/soccer-streams/wolfsburg-vs-bayern-munchen/",
+			"isHost": "true"
+		}]
+	}, {
+		"name": "Premier",
+		"image": "https://i.ytimg.com/vi/SJReog-aZH4/maxresdefault.jpg",
+		"info": "",
+		"stations": [{
+			"name": "ESPN-Argentina",
+			"image": "https://i.ibb.co/pfvTKxK/espn.gif",
+			"url": "http://totalsport.me/player/11",
+			"isHost": "true"
+		}, {
+			"name": "ESPN2-Argentina",
+			"image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+			"url": "https://live-tennis.stream/stream/54014.html",
+			"referer": "https://totalsport.me/player/12",
+			"isHost": "true"
+		}, {
+			"name": "Fox Sport 1-Argentina",
+			"image": "https://adictosalatele.com/logos/foxsports1ar.png",
+			"url": "https://adictosaldeporte.com/ver-fox-sports-en-vivo-24h/",
+			"isHost": "true"
+		}, {
+			"name": "Fox Sport 2-Argentina",
+			"image": "https://adictosalatele.com/logos/foxsports2ar.png",
+			"url": "https://adictosaldeporte.com/ver-fox-sports-2-en-vivo-24h/",
+			"isHost": "true"
+		}, {
+			"name": "BT Sport-1",
+			"image": "https://i.ibb.co/THBmVMf/BT-Sport-1.gif",
+			"url": "https://hindimean.com/stream2watch/btsport-1.php",
+			"isHost": "true"
+		}, {
+			"name": "Southampton vs Tottenham Hotspur",
+			"image": "https://i.pinimg.com/originals/dd/a2/4e/dda24eebc5310358157ee51927d4bd66.jpg",
+			"url": "https://dailysport.pw/c5.php",
+			"isHost": "true"
+		}, {
+			"name": "Newcastle United vs Brighton & Hove Albion",
+			"image": "https://i.pinimg.com/originals/dd/a2/4e/dda24eebc5310358157ee51927d4bd66.jpg",
+			"url": "https://dailysport.pw/c5.php",
+			"isHost": "true"
+		}, {
+			"name": "Chelsea vs Liverpool",
+			"image": "https://i.pinimg.com/originals/dd/a2/4e/dda24eebc5310358157ee51927d4bd66.jpg",
+			"url": "https://dailysport.pw/c5.php",
+			"isHost": "true"
+		}, {
+			"name": "Leicester City vs Burnley",
+			"image": "https://i.pinimg.com/originals/dd/a2/4e/dda24eebc5310358157ee51927d4bd66.jpg",
+			"url": "https://dailysport.pw/c5.php",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://i.pinimg.com/originals/dd/a2/4e/dda24eebc5310358157ee51927d4bd66.jpg",
+			"url": "http://liveonscore.tv/soccer-streams/premier-league/leeds-united-vs-fulham/",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://i.pinimg.com/originals/dd/a2/4e/dda24eebc5310358157ee51927d4bd66.jpg",
+			"url": "https://dailysport.pw/c4.php",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://i.pinimg.com/originals/dd/a2/4e/dda24eebc5310358157ee51927d4bd66.jpg",
+			"url": "http://liveonscore.tv/soccer-streams/premier-league/manchester-united-vs-crystal-palace/",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://i.pinimg.com/originals/dd/a2/4e/dda24eebc5310358157ee51927d4bd66.jpg",
+			"url": "https://dailysport.pw/c4.php",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://i.pinimg.com/originals/dd/a2/4e/dda24eebc5310358157ee51927d4bd66.jpg",
+			"url": "http://liveonscore.tv/soccer-streams/premier-league/arsenal-vs-west-ham-united/",
+			"isHost": "true"
+		}]
+	}, {
+		"name": "Italia Serie A",
+		"image": "https://www.pasionfutbol.com/__export/1542823880451/sites/pasionlibertadores/img/2018/11/21/partidos_serie_a_italia_.jpg_423682103.jpg",
+		"info": "",
+		"stations": [{
+			"name": "Juventus vs Sampdoria",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "https://dailysport.pw/c12.php",
+			"isHost": "true"
+		}, {
+			"name": "Juventus vs Sampdoria",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "http://www.bfst.xyz/ch3.php",
+			"isHost": "true"
+		}, {
+			"name": "Genova - Cretonese",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "http://www.bfst.xyz/ch3.php",
+			"isHost": "true"
+		}, {
+			"name": "Parma - Napoli",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "http://www.bfst.xyz/ch3.php",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "http://liveonscore.tv/soccer-streams/serie-a/bologna-vs-torino/",
+			"isHost": "true"
+		}, {
+			"name": "",
+			"image": "https://prod.media.libero.pe/1200x660/libero/imagen/2019/08/23/noticia-1566621896-seriea-fecha1.jpg",
+			"url": "http://liveonscore.tv/soccer-streams/serie-a/spal-vs-fiorentina/",
+			"isHost": "true"
+		}]
+	}, {
+		"name": "Deport-mix",
+		"image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
+		"info": "",
+		"stations": [{
+			"name": "Vamos",
+			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
+			"userAgent": "nwe_user2",
+			"url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts"
+		}, {
+			"name": "La liga",
+			"image": "https://i.ibb.co/3zWF27P/Movistar-la-liga.gif",
+			"userAgent": "Lavf/57.83.100",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/36.ts"
+		}, {
+			"name": "La liga Bar",
+			"userAgent": "Lavf/57.83.100",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/36.ts",
+			"image": "https://i.ibb.co/tZRyTb6/tv-bar.gif"
+		}, {
+			"name": "La liga Bar",
+			"image": "https://i.ibb.co/tZRyTb6/tv-bar.gif",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/37.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "La liga 1",
+			"userAgent": "",
+			"url": "https://dailysport.pw/c7.php",
+			"image": "https://i.ibb.co/tJwMfCz/Movistar-la-liga1.gif"
+		}, {
+			"name": "La liga 1",
+			"image": "https://i.ibb.co/tJwMfCz/Movistar-la-liga1.gif",
+			"url": "http://elitegol.me/ver-mutlliga-multichampions/",
+			"isHost": "true"
+		}, {
+			"name": "Movistar Campeones",
+			"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
+			"url": "http://play.lookplay.ml:80/look/movistar_liga_de_campeones/index.m3u8",
+			"userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4"
+		}, {
+			"name": "Movistar Campeones",
+			"image": "https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg",
+			"url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/32.ts",
+			"userAgent": "nwe_user2"
+		}, {
+			"name": "Movistar Deportes",
+			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/34.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "Movistar Deporte",
+			"image": "https://i.ibb.co/pKKYYX4/Deportes.gif",
+			"url": "http://185.140.187.41:8000/play/a03m/index.m3u8",
+			"userAgent": ""
+		}, {
+			"name": "Gol TV",
+			"image": "https://i.ibb.co/RHwjKrX/gol.gif",
+			"url": "https://www.goltelevision.com/en-directo",
+			"isHost": "true"
+		}, {
+			"name": "Teledeporte",
+			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
+			"url": "https://www.rtve.es/directo/teledeporte//",
+			"isHost": "true"
+		}, {
+			"name": "Formula 1",
+			"userAgent": "Lavf/57.83.100",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/30.ts",
+			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg"
+		}, {
+			"name": "Eurosport 1",
+			"userAgent": "Lavf/57.83.100",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/27.ts",
+			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif"
+		}, {
+			"name": "Eurosport 2",
+			"image": "https://www.adslzone.tv/app/uploads/2015/06/eurosport_2_690.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/49.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "Golf",
+			"image": "https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-golf.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/28.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "Barça TV",
+			"image": "https://jrsy.tmsimg.com/assets/p584943_b_h6_aa.jpg",
+			"url": "https://adictosaldeporte.com/ver-barca-tv-online-y-en-directo-gratis-24h/",
+			"isHost": "true"
+		}, {
+			"name": "Real MAdrid TV",
+			"userAgent": "",
+			"url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
+			"image": "https://i.ibb.co/SySS6Yj/Real-Madrid.gif"
+		}, {
+			"name": "Real Betis TV",
+			"url": "https://www.realbetisbalompie.es/rtvbetis/directo-tv/",
+			"image": "https://www.neeo.es/wp-content/uploads/2017/06/Betis-TV.jpg",
+			"isHost": "true"
+		}, {
+			"name": "ESPN-Argentina",
+			"image": "https://i.ibb.co/pfvTKxK/espn.gif",
+			"url": "https://live-tennis.stream/stream/54013.html",
+			"referer": "http://totalsport.me/player/11",
+			"isHost": "true"
+		}, {
+			"name": "ESPN2-Argentina",
+			"image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
+			"url": "https://live-tennis.stream/stream/54014.html",
+			"referer": "https://totalsport.me/player/12",
+			"isHost": "true"
+		}, {
+			"name": "ESPN3-Argentina",
+			"image": "https://i.ibb.co/Jzf8TCz/espn3.gif",
+			"referer": "https://totalsport.me/player/13",
+                        "url" : "https://live-tennis.stream/stream/54015.html",
+			"isHost": "true"
+		}, {
+			"name": "ESPN+ Argentina",
+			"image": "https://2.bp.blogspot.com/-oWNM4gzc8ds/U4T7eaXp7tI/AAAAAAAACcs/RgUEtzV5yyM/s1600/ESPN-+-Latinoamerica-en-Vivo-fullcaleta-tv-online-portada-png-gif.png",
+			"url": "https://adictosalatele.com/TV/latinos/espn+ar/",
+			"isHost": "true"
+		}, {
+			"name": "Fox Sports Premium-Argentina",
+			"image": "https://adictosalatele.com/logos/fox-sports-premium1.png",
+			"url": "https://wstream.to/embed/7tm88j",
+			"referer": "https://adictosalatele.com/TV/latinos/fox-sports-premium/",
+			"isHost": "true"
+		}, {
+			"name": "Fox Sport 1-Argentina",
+			"image": "https://adictosalatele.com/logos/foxsports1ar.png",
+			"referer": "https://totalsport.me/player/21",
+                        "url" : "https://live-tennis.stream/stream/45529.html",
+			"isHost": "true"
+		}, {
+			"name": "Fox Sport 2-Argentina",
+			"image": "https://adictosalatele.com/logos/foxsports2ar.png",
+			"url": "https://adictosaldeporte.com/ver-fox-sports-2-en-vivo-24h/",
+			"isHost": "true"
+		}, {
+			"name": "Fox Sport 3-Argentina",
+			"image": "https://adictosalatele.com/logos/foxsports3ar.png",
+			"url": "https://adictosaldeporte.com/ver-fox-sports-3-en-vivo-24h/",
+			"isHost": "true"
+		}, {
+			"name": "TNT Sport",
+			"image": "https://adictosalatele.com/logos/tntsports.png",
+			"url": "https://adictosaldeporte.com/ver-tnt-sports-en-vivo/",
+			"isHost": "true"
+		}, {
+			"name": "TyC Sport",
+			"image": "https://adictosalatele.com/logos/tyc.png",
+			"url": "https://adictosaldeporte.com/ver-tyc-sports-en-vivo-24h/",
+			"isHost": "true"
+		}, {
+			"name": "TUDN",
+			"image": "https://i.ibb.co/7KJk4Y2/TUDN.gif",
+			"url": "https://adictosaldeporte.com/ver-tudn-en-vivo-24h/",
+			"isHost": "true"
+		}, {
+			"name": "Sky Sport Futbol",
+			"image": "https://i.ibb.co/8zNh52z/sky.gif",
+			"url": "https://footyhunter1.xyz/papahd/stream-46.php",
+			"referer": "https://wstream.to/embed/g0pyuo87bgu1",
+			"isHost": "true"
+		}, {
+			"name": "Fox Sports New",
+			"userAgent": "",
+			"url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8",
+			"image": "https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png"
+		}, {
+			"name": "Fight Time",
+			"userAgent": "",
+			"url": "http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w1903517092_b2596000.m3u8",
+			"image": "https://image.roku.com/developer_channels/prod/40a705cc92202ce7b4982c3c98882749f7cfea62dabdb62a41accad105a66726.png"
+		}, {
+			"name": "Redbull TV",
+			"image": "https://www.weareplaystation.fr/uploads/media/community/0005/47/thumb_446904_community_max.png",
+			"url": "https://www.socialcreator.com/directos/?s=109420&idprod=44822",
+			"isHost": "true"
+		}]
+	}, {
+		"name": "Movistar",
+		"image": "https://i.ibb.co/GppNrg3/movistar.gif",
+		"info": "",
+		"stations": [{
+			"name": "M.#0+",
+			"image": "https://www.audiovisual451.com/wp-content/uploads/0-Movistar-logo.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/44.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Estrenos",
+			"image": "https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESTRENOS.png",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/43.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Acción",
+			"image": "https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/41.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Drama",
+			"image": "https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDRAMA.png",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/42.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Comedia",
+			"image": "https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/40.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Cine ñ",
+			"image": "https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-cine-espanol.jpg.pagespeed.ic.yHmmANMZEU.jpg",
+			"url": "http://awandapremium.com:8080/cinetv/@IPTVSPAIN/34640",
+			"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+		}, {
+			"name": "M.Series",
+			"image": "https://i.blogs.es/e55d0b/movistarseries/450_1000.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/21.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Fox",
+			"image": "https://comunidad.movistar.es/t5/image/serverpage/image-id/69125i1CE6302E30C2CD2B/image-size/original?v=mpbl-1&px=-1",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/20.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.AXN",
+			"image": "https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/19.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.AMC",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/47.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.AXN White",
+			"image": "https://www.elpublicista.es/adjuntos/fichero_7025_20120416.jpg",
+			"url": "http://awandapremium.com:8080/cinetv/@IPTVSPAIN/34789",
+			"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
+		}, {
+			"name": "M.Calle 13",
+			"image": "https://www.elpublicista.es/adjuntos/fichero_8112_20130325.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/39.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.SYFY",
+			"image": "https://portalgeek.co/wp-content/uploads/2019/05/syfy.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/17.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Hollywood",
+			"image": "https://canalhollywood.es/wp-content/uploads/2015/06/Canal-Hollywood-logo.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/3.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.TCM",
+			"image": "https://vertele.eldiario.es/2017/09/15/noticias/Logo-TCM_1939916006_8750809_660x371.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/6.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Dark",
+			"image": "https://pbs.twimg.com/profile_images/790586217452736512/6hwKbhz1_400x400.jpg",
+			"url": "http://mdprime.live:9087/live/Kratus/12lajsuq1QWE/33132.m3u8",
+			"userAgene": ""
+		}, {
+			"name": "M.XTRM",
+			"image": "https://comiberica.es/wp-content/uploads/2016/09/XTRM.png",
+			"url": "http://thagui-group-bolivia.com:25461/kqu2wvVKME/Descarga-Desde-PlayStore-GnulaTV-GRATIS/64145",
+			"userAgent": ""
+		}, {
+			"name": "M.Comedy Central",
+			"image": "https://2.bp.blogspot.com/-_rhWaodsTIk/U2Fd8GLB4TI/AAAAAAAAGc8/mjWpxsTFEYI/s1600/comedy-central-logo.png",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/45.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Discovery max",
+			"image": "https://i0.wp.com/i.blogs.es/85fef2/logo-discovery-max/original.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/24.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Historia",
+			"image": "https://static.megustaleer.com/images/autores_300_x/ES0000920957.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/23.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Canal Cocina",
+			"image": "https://adrinalina31.files.wordpress.com/2017/03/canal-cocina.jpg?w=520",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/15.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Crimen e inestigación",
+			"image": "https://i.ytimg.com/vi/5WOv8kzPKCU/maxresdefault.jpg",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/48.ts",
+			"userAgent": "Lavf/57.83.100"
+		}, {
+			"name": "M.Toros",
+			"url": "https://www.socialcreator.com/directos/?s=109420&idprod=44605",
+			"isHost": "true",
+			"image": "https://www.accionnaturaliberica.com/wp-content/uploads/2020/04/movistar-plus-toros-712x356.jpg"
+		}, {
+			"name": "M.Toros",
+			"url": "http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/29.ts",
+			"userAgent": "Lavf/57.83.100",
+			"image": "https://www.accionnaturaliberica.com/wp-content/uploads/2020/04/movistar-plus-toros-712x356.jpg"
+		}, {
+			"name": "M.Caza y pesca",
+			"image": "https://fanshop.movistarplus.es/files/898-153-imgGrande/Caza-y-Pesca-Logotipo-2016-2.png",
+			"url": "http://play.lookplay.ml:80/look/caza_y_pesca/index.m3u8",
+			"userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4"
+		}, {
+			"name": "M.Cazavisión",
+			"image": "https://www.cazavision.com/sites/default/files/images/logocazavision.jpg",
+			"url": "https://cdn039.fractalmedia.es/adaptive_8f32/caz_es.m3u8",
+			"userAgent": ""
+		}, {
+			"name": "Iberalia",
+			"url": "http://awandapremium.com:8080/cinetv/@IPTVSPAIN/34626",
+			"userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git",
+			"image": "https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg"
+		}, {
+			"name": "Hunt",
+			"userAgent": "",
+			"url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8",
+			"image": "https://www.dropbox.com/s/c9lwrz2c5kkr1ap/hunt.png?dl=1"
+		}]
+	}, {
+		"name": "TV Infantil",
+		"image": "https://pediatriayfamilia.com/wp-content/uploads/2019/12/programas-tv-infantiles-min-1200x693.jpg",
+		"info": "",
+		"stations": [{
+			"name": "CARTOON NETWORK",
+			"image": "https://pm1.narvii.com/7207/4e22586d26397c68315646930d9444708543434cr1-1500-1200v2_hq.jpg",
+			"url": "https://adictosalatele.com/cartoon-network-online-en-vivo-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "DISCOVERY KIDS",
+			"image": "https://i.pinimg.com/originals/1b/92/52/1b9252e7ef4ee2739d1d8f6ede92f3a7.jpg",
+			"url": "https://adictosalatele.com/discovery-kids-online-en-vivo-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "DISNEY JUNIOR",
+			"userAgent": "",
+			"url": "http://play.serpienteserver.com:8080/live/hadex/nnPvVQVfYt/83897.ts",
+			"image": "https://png.pngitem.com/pimgs/s/249-2497242_disney-junior-disney-channel-walt-disney-company-logotipo.png"
+		}, {
+			"name": "DISNEY XD",
+			"image": "https://3.bp.blogspot.com/_4bTWcw7MUFo/SlCh-1j5WMI/AAAAAAAAAyo/9MfXAi1GCSU/s400/Disney+XD+Logo.jpg",
+			"url": "https://adictosalatele.com/disney-xd-online-en-vivo-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "DISNEY CHANNEL",
+			"image": "https://st-listas.20minutos.es/images/2017-04/420317/list_640px.jpg?1564194212",
+			"url": "https://adictosalatele.com/disney-channel-online-en-vivo-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "NICK",
+			"image": "https://becasparatodos.com/wp-content/uploads/2016/03/Nickelodeon_Pakistan.png",
+			"url": "https://adictosalatele.com/nick-online-en-vivo-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "NICKTOONS",
+			"image": "https://vignette.wikia.nocookie.net/nickelodeon/images/9/95/NicktoonsTV.jpg/revision/latest?cb=20090518224527",
+			"url": "https://adictosalatele.com/nicktoons-online-en-vivo-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "BABYFIRST",
+			"image": "https://i2.wp.com/satcesc.com/wp-content/uploads/2017/02/BabyFirst.jpg?fit=399%2C240&ssl=1",
+			"url": "https://adictosalatele.com/babyfirst-online-en-vivo-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "BOING",
+			"userAgent": "",
+			"url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8",
+			"image": "https://i.ibb.co/FK15syj/Boing.gif"
+		}, {
+			"name": "CLAN",
+			"image": "https://img2.rtve.es/css/resources/thumbs/genericClan_catalogo.png",
+			"url": "https://adictosalatele.com/clan-tv-online-en-directo-gratis/",
+			"isHost": "true"
+		}]
+	}, {
+		"name": "TDT",
+		"image": "https://www.tdtprofesional.com/blog/wp-content/uploads/tdt-1.jpg",
+		"info": "",
+		"stations": [{
+			"name": "La 1",
+			"image": "https://i.ibb.co/jbC4Ct0/La-1.gif",
+			"url": "https://www.rtve.es/directo/la-1/",
+			"referer": "https://www.google.es/",
+			"isHost": "true"
+		}, {
+			"name": "La 2",
+			"image": "https://i.ibb.co/YhnnPK6/La-2.gif",
+			"url": "https://www.rtve.es/directo/la-2/",
+			"referer": "https://www.google.es/",
+			"isHost": "true"
+		}, {
+			"name": "Antena 3",
+			"url": "https://www.tdtchannels.com/television/Antena3",
+			"referer": "https://www.tdtchannels.com/",
+			"image": "https://i.ibb.co/58qD5PH/Antena-3.gif",
+			"isHost": "true"
+		}, {
+			"name": "La 4",
+			"isHost": "true",
+			"image": "https://i.ibb.co/BTFVVnH/La-4.gif",
+			"referer": "https://www.tdtchannels.com/",
+			"url": "https://www.tdtchannels.com/television/Cuatro"
+		}, {
+			"name": "Tele 5",
+			"isHost": "true",
+			"image": "https://i.ibb.co/h9vrfnW/tele-5.gif",
+			"referer": "https://www.tdtchannels.com/",
+			"url": "https://www.tdtchannels.com/television/telecinco/"
+		}, {
+			"name": "La Sexta",
+			"isHost": "true",
+			"image": "https://i.ibb.co/8gcnJxq/la-sexta.gif",
+			"referer": "https://www.tdtchannels.com/",
+			"url": "https://www.tdtchannels.com/television/laSexta"
+		}, {
+			"name": "Mega",
+			"userAgent": "navigator",
+			"image": "https://i.ibb.co/Jv27HY1/Mega.gif",
+			"referer": "https://www.tdtchannels.com/",
+			"url": "https://www.tdtchannels.com/television/Mega"
+		}, {
+			"name": "FDF",
+			"isHost": "true",
+			"image": "https://i.ibb.co/xLKKsG0/fdf.gif",
+			"referer": "https://www.tdtchannels.com/",
+			"url": "https://www.tdtchannels.com/television/FDF"
+		}, {
+			"name": "Neox",
+			"isHost": "true",
+			"image": "https://i.ibb.co/mNtgMVH/neox.gif",
+			"referer": "https://www.tdtchannels.com/",
+			"url": "https://www.tdtchannels.com/television/Neox"
+		}, {
+			"name": "Nova",
+			"isHost": "true",
+			"url": "https://www.tdtchannels.com/television/Nova",
+			"referer": "https://www.tdtchannels.com/",
+			"image": "https://i.ibb.co/fSqc0Kb/nova.gif"
+		}, {
+			"name": "Energy",
+			"image": "https://www.mundoplus.tv/img/77db6e517525058db35070f9c7360223",
+			"isHost": "true",
+			"referer": "https://www.tdtchannels.com/",
+			"url": "https://www.tdtchannels.com/television/Energy"
+		}, {
+			"name": "Be Mad",
+			"isHost": "true",
+			"image": "https://i.ibb.co/0B4VNsD/Be-mad.gif",
+			"referer": "https://www.tdtchannels.com/",
+			"url": "https://www.tdtchannels.com/television/BeMad"
+		}, {
+			"name": "Divinity",
+			"isHost": "true",
+			"image": "https://i.ibb.co/LrX6mjv/Divinity.gif",
+			"referer": "https://www.tdtchannels.com/",
+			"url": "https://www.tdtchannels.com/television/Divinity"
+		}, {
+			"name": "Paramount",
+			"isHost": "true",
+			"image": "https://i.ibb.co/kSxgr3R/Paramount.gif",
+			"referer": "https://www.tdtchannels.com/",
+			"url": "https://www.tdtchannels.com/television/ParamountNetwork"
+		}, {
+			"name": "Intereconomia",
+			"image": "https://clubdeamigos.eltorotv.com/wp-content/uploads/2017/02/tele-intereconomia-tv-4-3-1-1000x480.png",
+			"userAgent": "",
+			"url": "https://live-edge-lon-2.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8"
+		}, {
+			"name": "Canal 24 Horas",
+			"image": "https://img.freepik.com/foto-gratis/servicio-24-horas_103577-1458.jpg?size=626&ext=jpg",
+			"referer": "https://www.google.es/",
+			"url": "https://www.rtve.es/directo/canal-24h/",
+			"isHost": "true"
+		}]
+	}, {
+		"name": "Canales Latinos",
+		"image": "https://i.ibb.co/pbH873V/Sin-t-tulo.jpg",
+		"info": "",
+		"stations": [{
+			"name": "Caracol TV",
+			"image": "https://i.pinimg.com/736x/c8/12/3a/c8123ac52b4d97295dedada29a41bb50.jpg",
+			"url": "https://adictosaldeporte.com/ver-caracol-tv-en-vivo-24h/",
+			"isHost": "true"
+		}, {
+			"name": "Telefe",
+			"image": "https://www.prensario.tv/images/galleries/3653/dad6651145d1ce487687a0bb66655867_750x400.jpg?v=1562253091",
+			"url": "https://adictosalatele.com/telefe-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "America TV",
+			"image": "https://media.cdn.eldestapeweb.com/eldestape/022018/1558049689051.jpg?&cw=350",
+			"url": "https://adictosalatele.com/america-2-tv-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "TV publica",
+			"image": "https://pbs.twimg.com/profile_images/953047588407857152/iv0W6aMO.jpg",
+			"url": "https://adictosalatele.com/tv-publica-argentina-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "TN Todo noticias",
+			"image": "https://periodicotribuna.com.ar/aimages/201401/14975-696x603/periodismo-opositor-el-peligroso-juego-de-tn.jpg",
+			"url": "https://adictosalatele.com/canal-tn-argentina-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "C5N",
+			"image": "https://imagery.zoogletools.com/u/134121/5559388a4d1efe8bcb28e5011b292d4ea4278c17/large/c5n.gif",
+			"url": "https://adictosalatele.com/canal-c5n-argentina-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "El 9",
+			"image": "https://www.infoveloz.com/storage/18/05/11/13/fit722x442/1563569579_1269116.jpeg",
+			"url": "https://adictosalatele.com/canal-9-argentina-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "26 HD",
+			"image": "https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg",
+			"url": "https://adictosalatele.com/canal-26-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "Cronica TV",
+			"image": "https://www.aiepesa.org.ar/upload_files/press_f7177163c833dff4b38fc8d2872f1ec6/20180322-015532_logo-cronica-tv.jpg",
+			"url": "https://adictosalatele.com/cronica-tv-argentina-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "Ciudad Magazine",
+			"image": "https://www.totalmedios.com/img/noticias/2017/08/59807104b5d3f__838x390.jpg",
+			"url": "https://adictosalatele.com/ciudad-magazine-en-vivo/",
+			"isHost": "true"
+		}, {
+			"name": "Canal NET",
+			"image": "https://www.totalmedios.com/img/noticias/2018/05/5b0bf305b6301__838x390.jpg",
+			"url": "https://adictosalatele.com/canal-net-en-vivo/",
+			"isHost": "true"
+		}, {
+			"name": "Canal 3",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_3_logo.jpg",
+			"url": "https://adictosalatele.com/canal-3-rosario-en-vivo/",
+			"isHost": "true"
+		}, {
+			"name": "Canal 7 Mendoza",
+			"image": "https://www.elsietetv.com.ar/wp-content/uploads/2017/11/23380124_10159942043045221_7800227664856652877_n.png",
+			"url": "https://adictosalatele.com/el-siete-mendoza-en-vivo/",
+			"isHost": "true"
+		}, {
+			"name": "Canal America 24",
+			"image": "https://i.ytimg.com/vi/DbPIYm3fKXI/maxresdefault.jpg",
+			"url": "https://adictosalatele.com/canal-america-24-en-vivo/",
+			"isHost": "true"
+		}, {
+			"name": "Televisa del Bajio",
+			"image": "https://2.bp.blogspot.com/-injiu6DsIz8/XBz_U-D3jII/AAAAAAAABgo/HTUBLcTIs-s0pscsPIIqodpALROpkmpXgCLcBGAs/w1200-h630-p-k-no-nu/televisa-del-bajio.jpg",
+			"url": "https://adictosalatele.com/televisa-del-bajio-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Canal 5 televisa",
+			"image": "https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg",
+			"url": "https://adictosalatele.com/canal-5-televisa-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "Azteca 1",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo-tv-azteca-png.jpg",
+			"url": "https://adictosalatele.com/canal-azteca-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "Azteca 7",
+			"image": "https://storage.googleapis.com/www-paredro-com/uploads/2016/12/antes.jpeg",
+			"url": "https://adictosalatele.com/azteca-siete-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Azteca mas",
+			"image": "https://image.roku.com/developer_channels/prod/47d6498daa5250b576205586df443402401e048ca9c063aa467979d07a4654b1.png",
+			"url": "https://adictosalatele.com/azteca-mas-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Azteca cinema",
+			"image": "https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png",
+			"url": "https://adictosalatele.com/azteca-cinema-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Azteca mundo",
+			"image": "https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png",
+			"url": "https://adictosalatele.com/azteca-mundo-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Azteca corazón",
+			"image": "https://cdn.mitvstatic.com/channels/co_az-corazon_m.png",
+			"url": "https://adictosalatele.com/azteca-corazon-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Canal de las estrellas",
+			"image": "https://www.comteco.com.bo/img/upload/canales/las-estrellas.png",
+			"url": "https://adictosalatele.com/canal-de-las-estrellas-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "Tlnovelas",
+			"image": "https://notinovelas.com/wp-content/uploads/2019/10/tlnovelas.png",
+			"url": "https://adictosalatele.com/telenovelas-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "TV Perú",
+			"image": "https://radionacional.com.pe/sites/default/files/styles/note/public/tv-peru-logo.jpg?itok=rnBFuhVP",
+			"url": "https://adictosalatele.com/tv-peru-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "Panamericana",
+			"image": "https://www.lampadia.com/assets/uploads_autores/b984f-captura_de_pantalla_2011-06-24_a_las_18.16.54.gif",
+			"url": "https://stream-14.dc3.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFp-qyqftp4uBd9-9NNu-DNo)/dm/3/x774s7s/s/live-3.m3u8",
+			"userAgent": ""
+		}, {
+			"name": "RCN",
+			"image": "https://laplena.co/sites/default/files/images/noticias/portadas/201701/rcn-logo.jpg",
+			"url": "https://vsd63.mycdn.me:443/hls/666539854427.m3u8/sig/hsuaYCXnCIo/expires/1595460995825/srcIp/146.158.235.156/clientType/0/srcAg/CHROME_ANDROID/mid/1465029434971/666539854427_high/index.m3u8",
+			"userAgent": ""
+		}, {
+			"name": "Telemedellin",
+			"image": "https://revistapym.com.co/wp-content/uploads/2016/09/TeleMedellin.jpg",
+			"url": "https://livestream.com/accounts/4608897/events/7111788/player?width=640&heig%20ht=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mu%20te=false",
+			"isHost": "true"
+		}, {
+			"name": "NTN 24",
+			"image": "https://cdn.espaciopublico.ong/wp-content/uploads/2014/09/NTN24-logo.jpg",
+			"url": "https://adictosalatele.com/ntn-24-noticias-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "Cali TV",
+			"image": "https://cdn.mitvstatic.com/channels/co_cali-tv_m.png",
+			"url": "https://adictosalatele.com/cali-tv-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "Fox Latino",
+			"image": "https://i.pinimg.com/736x/f7/05/58/f70558baf24b1e1ae3a632a8a33dd7d8.jpg",
+			"url": "https://adictosalatele.com/fox-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "FOX premium action",
+			"image": "https://cdn.mitvstatic.com/channels/cl_fox-action_m.png",
+			"url": "https://adictosalatele.com/fox-action-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "FOX premium series",
+			"image": "https://cdn.mitvstatic.com/channels/cl_fox-1-hd_m.png",
+			"url": "https://adictosalatele.com/fox-series-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "FOX premium family",
+			"image": "https://startvmexico.com/wp-content/uploads/2018/12/FOX_FAMILY_2.jpg",
+			"url": "https://adictosalatele.com/fox-family-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "FOX premium cinema",
+			"image": "https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png",
+			"url": "https://adictosalatele.com/fox-cinema-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "FOX premium comedy",
+			"image": "https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png",
+			"url": "https://adictosalatele.com/fox-comedy-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "FOX premium classic",
+			"image": "https://cdn.mitvstatic.com/channels/b84d6352-9ff9-4a67-8c39-0f7ba5294c45_m.jpg",
+			"url": "https://adictosalatele.com/fox-classics-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "FOX premium movies",
+			"image": "https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png",
+			"url": "https://adictosalatele.com/fox-movies-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "FOX life",
+			"image": "https://casadecor.es/assets/uploads/2018/01/foxlife-white.png",
+			"url": "https://adictosalatele.com/fox-life-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "HBO latino",
+			"image": "https://www.gmkfreelogos.com/logos/H/img/HBO_Latino.gif",
+			"url": "https://adictosalatele.com/hbo-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "HBO 2",
+			"image": "https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png",
+			"url": "https://adictosalatele.com/hbo-2-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "HBO plus",
+			"image": "https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/763-HBO-PlusHD.jpg",
+			"url": "https://adictosalatele.com/hbo-plus-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "HBO family",
+			"image": "https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png",
+			"url": "https://adictosalatele.com/hbo-family-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "HBO signature",
+			"image": "https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png",
+			"url": "https://adictosalatele.com/hbo-signature-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "HBO xtreme",
+			"image": "https://i.ytimg.com/vi/P0I6ju2c5Cc/maxresdefault.jpg",
+			"url": "https://adictosalatele.com/max-prime-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "HBO mundi",
+			"image": "https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/Mubdi.jpg",
+			"url": "https://adictosalatele.com/max-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "HBO pop",
+			"image": "https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/logo-HBOPop.jpg",
+			"url": "https://adictosalatele.com/max-up-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Canal golden",
+			"image": "https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg",
+			"url": "https://adictosalatele.com/canal-golden-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Golden plus",
+			"image": "https://tvnotiblog.com/wp-content/uploads/2010/03/golden-hd.jpg",
+			"url": "https://adictosalatele.com/canal-golden-plus-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Golden edge",
+			"image": "https://logostvargentina.files.wordpress.com/2010/07/d2f36-goldenedge.png",
+			"url": "https://adictosalatele.com/golden-edge-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Cinemax",
+			"image": "https://1.bp.blogspot.com/-Fl--OqYGNA8/VAD9YvxsndI/AAAAAAAAjYY/Wo2r4Z6u_DQ/s1600/cinemax_novologo.jpg",
+			"url": "https://adictosalatele.com/cinemax-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Cinecanal",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png",
+			"url": "https://adictosalatele.com/ver-cinecanal-en-vivo-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "TNT",
+			"image": "https://lh3.googleusercontent.com/-vpjGc-mlpfg/VabsTyAJnvI/AAAAAAAAPrw/XnNn8xRBJk0/zrclip_012n1be9d832.png",
+			"url": "https://adictosalatele.com/tnt-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "TNT series",
+			"image": "https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png",
+			"url": "https://adictosalatele.com/tnt-series-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "AXN",
+			"image": "https://i.pinimg.com/originals/3b/b9/92/3bb99217022036efb95f80d705b1e791.png",
+			"url": "https://adictosalatele.com/axn-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "AMC",
+			"image": "https://static.wirtualnemedia.pl/media/top/amc655.jpg",
+			"url": "https://adictosalatele.com/amc-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "TCM",
+			"image": "http://www.brandemia.org/sites/default/files/sites/default/files/logo_tcm.jpg",
+			"url": "https://adictosalatele.com/tcm-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "FXM",
+			"image": "https://www.cablemaster.com.mx/images/Logos/fxm.jpg",
+			"url": "https://adictosalatele.com/canal-fxm-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "FX",
+			"image": "https://cdn.mitvstatic.com/channels/cl_fx_m.png",
+			"url": "https://adictosalatele.com/canal-fx-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Space",
+			"image": "https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/751-Space-HD-01.jpg",
+			"url": "https://adictosalatele.com/canal-space-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Comedy central",
+			"image": "https://style.shockvisual.net/wp-content/uploads/2019/03/COMEDY-CENTRAL.jpg",
+			"url": "https://adictosalatele.com/comedy-central-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Paramount chanel",
+			"image": "https://www.periodistadigital.com/wp-content/uploads/2012/03/paramountok.jpg?width=1200&enable=upscale",
+			"url": "https://adictosalatele.com/paramount-channel-latino-en-vivo-online/",
+			"isHost": "true"
+		}, {
+			"name": "SONY",
+			"image": "https://1.bp.blogspot.com/-HfsuUFtP71Q/UzMynrpunOI/AAAAAAAAh1I/Bt-pA3Ps75g/s1600/Sony_+novologo.png",
+			"url": "https://adictosalatele.com/canal-sony-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "TBS",
+			"image": "https://juegosjuguetesycoleccionables.com/wp-content/uploads/2018/03/tbs-715x400.jpg",
+			"url": "https://adictosalatele.com/canal-tbs-latino-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Studio uniersal",
+			"image": "https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg",
+			"url": "https://adictosalatele.com/studio-universal-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Uniersal channel",
+			"image": "https://pbs.twimg.com/profile_images/49045732/logo-universal-channel_400x400.jpg",
+			"url": "https://adictosalatele.com/universal-channel-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Warner tv",
+			"image": "https://2.bp.blogspot.com/-rKEmE6c-sgY/UJ76wQyYsbI/AAAAAAAABdk/6KI6nmZ56BI/s1600/imgres.jpg",
+			"url": "https://adictosalatele.com/canal-warner-en-vivo-online-gratis/l",
+			"isHost": "true"
+		}, {
+			"name": "De pelicula",
+			"image": "https://cdn.mitvstatic.com/channels/hn_de-pelicula_m.png",
+			"url": "https://adictosalatele.com/de-pelicula-en-vivo-online-gratis/",
+			"isHost": "true"
+		}, {
+			"name": "Distrito comedia",
+			"image": "https://3.bp.blogspot.com/-VCve3qBUUxk/UKs-x_dNQhI/AAAAAAAAB2c/x_vx5be4bUw/s1600/distrito+comedia.JPGg",
+			"url": "https://adictosalatele.com/distrito-comedia-en-vivo-online-gratis/",
+			"isHost": "true"
+		}]
+	}]
+}
